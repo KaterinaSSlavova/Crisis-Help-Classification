@@ -1,0 +1,45 @@
+# ===============================
+# Python / Jupyter + Virtual Env
+# ===============================
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs
+*.log
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# ===============================
+# IDE and Editor settings
+# ===============================
+
+# VS Code
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# ===============================
+# Build / Distribution folders
+# ===============================
+build/
+dist/
+*.egg-info/

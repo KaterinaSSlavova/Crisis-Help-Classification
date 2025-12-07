@@ -1,0 +1,47 @@
+# Data dictionary
+
+#### Note:
+*In the original version of the dataset, the column "related" has 3 possible values  - 0 = no, 1 yes and 2 = unsure. For the purposes on this project 2 was removed.* 
+
+| Column name            | Description                                                                                                                                   | Data type  | Allowed values                      |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------|
+| id                     | Unique message identifier                                                                                                                     | Integer    | -                                   |
+| message                | The message text in English -  either the translated version or the original version                                                          | String     | Free text                           |
+| original               | Original message in the source language; missing when the message was originally in English                                                   | String     | Free text                           |
+| genre                  | Defines the source type of the message                                                                                                        | String     | "direct", "social", "news"          |
+| related                | Defines whether the message is related to a disaster                                                                                          | Integer    | 0 = no, 1 = yes                     |
+| request                | Indicates whether the message is request for aid                                                                                              | Integer    | 0 / 1                               |
+| offer                  | Indicates whether the message is offering help                                                                                                | Integer    | 0 / 1                               |
+| aid_related            | Indicates whether the message is about aid or assistance in general                                                                           | Integer    | 0 / 1                               |
+| direct_report          | Indicates whether the message is a direct report from someone experiencing/witnessing the disaster or if they are reporting second/third hand | Integer    | 0 / 1                               |
+| medical_help           | Indicates whether the message refers to the need of medical assitance                                                                         | Integer    | 0 / 1                               |
+| medical_products       | Indicates whether the message refers to the need of medicine, medical products                                                                | Integer    | 0 / 1                               |
+| search_and_rescue      | Indicates whether the message refers search and rescue operations or somebody who needs rescue                                                | Integer    | 0 / 1                               |
+| security               | Indicates whether the message is about personal safety and security threats                                                                   | Integer    | 0 / 1                               |
+| military               | Message mentions military forces or military actions                                                                                          | Integer    | 0 / 1                               |
+| child_alone            | Indicates whether the message is about a child/children without adult care                                                                    | Integer    | 0 (no positives due to sensitivity) |
+| water                  | Indicates whether the message refers to drinking water access or shortages                                                                    | Integer    | 0 / 1                               |
+| food                   | Indicates whether the message refers to food access or shortages                                                                              | Integer    | 0 / 1                               |
+| shelter                | Indicates whether the message refers to the need of shelter or safe places to stay                                                            | Integer    | 0 / 1                               |
+| clothing               | Indicates whether the message is about clothing needs                                                                                         | Integer    | 0 / 1                               |
+| money                  | Indicates whether the message refers to financial support or monetary donations                                                               | Integer    | 0 / 1                               |
+| missing_people         | Indicates whether the message is about missing people                                                                                         | Integer    | 0 / 1                               |
+| refugees               | Indicates whether the message concerns refugees or internally displaced people                                                                | Integer    | 0 / 1                               |
+| death                  | Indicates whether the message refers to death                                                                                                 | Integer    | 0 / 1                               |
+| other_aid              | Indicates whether the message refers to other aid-related content that does not fall under ones mentioned above                               | Integer    | 0 / 1                               |
+| infrastructure_related | Indicates whether the message is about infrastructure-related issues                                                                          | Integer    | 0 / 1                               |
+| transport              | Indicates whether the message is about transport (buses, trains, planes) and interruptions to transport like blocked roads or missing bridges | Integer    | 0 / 1                               |
+| buildings              | Indicates whether the message relates to buildings (collapsed, unstable,usable as shelters, etc.)                                             | Integer    | 0 / 1                               |
+| electricity            | Indicates whether the message is about power supply or outages (public utilities or private generators)                                       | Integer    | 0 / 1                               |
+| tools                  | Indicates whether the message mentions tools relevant to disaster prevention or response                                                      | Integer    | 0 / 1                               |
+| hospitals              | Indicates if a message refers to medical facilities                                                                                           | Integer    | 0 / 1                               |
+| shops                  | Indicates if a message is about shops, markets, etc.                                                                                          | Integer    | 0 / 1                               |
+| aid_centers            | Indicates whether the message refers to aid centres.                                                                                          | Integer    | 0 / 1                               |
+| other_infrastructure   | Indicates if the message refers to infrastructure topics not mentioned in above                                                               | Integer    | 0 / 1                               |
+| weather_related        | Indicates if a message is weather-related                                                                                                     | Integer    | 0 / 1                               |
+| floods                 | Indicates if a message is about flooding                                                                                                      | Integer    | 0 / 1                               |
+| storm                  | Indicates if a message is about storms like hurricanes, tornadoes or snowstorms                                                               | Integer    | 0 / 1                               |
+| fire                   | Indicates if a message refers to fire incidents such as house fires, forest fires, etc.                                                       | Integer    | 0 / 1                               |
+| earthquake             | Indicates if a message refers to earthquakes                                                                                                  | Integer    | 0 / 1                               |
+| cold                   | Indicates if a message mentions dangers related to cold weather                                                                               | Integer    | 0 / 1                               |
+| other_weather          | Indicates if a message refers to other weather-related topic not mentioned above                                                              | Integer    | 0 / 1                               |

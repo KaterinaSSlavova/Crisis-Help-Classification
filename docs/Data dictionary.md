@@ -1,5 +1,5 @@
 # Data dictionary
-
+## Original dataset
 #### Note:
 *In the original version of the dataset, the column "related" has 3 possible values  - 0 = no, 1 yes and 2 = unsure. For the purposes on this project 2 was removed.* 
 
@@ -45,3 +45,5 @@
 | earthquake             | Indicates if a message refers to earthquakes                                                                                                  | Integer    | 0 / 1                               |
 | cold                   | Indicates if a message mentions dangers related to cold weather                                                                               | Integer    | 0 / 1                               |
 | other_weather          | Indicates if a message refers to other weather-related topic not mentioned above                                                              | Integer    | 0 / 1                               |
+
+## Final Dataset

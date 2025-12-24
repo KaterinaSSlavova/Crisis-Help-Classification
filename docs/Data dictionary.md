@@ -1,7 +1,5 @@
 # Data dictionary
 ## Original dataset
-#### Note:
-*In the original version of the dataset, the column "related" has 3 possible values  - 0 = no, 1 yes and 2 = unsure. For the purposes on this project 2 was removed.* 
 
 | Column name            | Description                                                                                                                                   | Data type  | Allowed values                      |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------|
@@ -47,3 +45,13 @@
 | other_weather          | Indicates if a message refers to other weather-related topic not mentioned above                                                              | Integer    | 0 / 1                               |
 
 ## Final Dataset
+
+| Column name         | Description                                                                                                                 | Data type | Allowed values |
+| ------------------- |-----------------------------------------------------------------------------------------------------------------------------| --------- |----------------|
+| id                  | Unique message identifier                                                                                                   | Integer   | -              |
+| message             | The message text in English -  either the translated version or the original version                                        | String    | Free text      |
+| need_basic_supplies | message indicates the need for essential supplies; created from - food, water and clothing                                  | Integer   | 0 / 1          |
+| need_medical_help   | message indicates the need of medical help or medical supplies; created from - medical_help, medical_products and hospitals | Integer   | 0 / 1          |
+| need_safety_rescue  | message indicates danger, rescue needs or safety threats; created from - search_and_rescue, security, military              | Integer   | 0 / 1          |
+| need_shelter        | message indicates the need for shelter/housing; created from - shelter                                                      | Integer   | 0 / 1          |
+| people_status       | message reports people status; created from - missing_people, death, refugees                                               | Integer   | 0 / 1          |

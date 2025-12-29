@@ -9,7 +9,7 @@ def get_nlp():
         nlp = spacy.load("en_core_web_sm")
     return nlp
 
-def preprocess_text(text):
+def preprocess_text(text, lemmatize = True):
     if not isinstance(text, str):
         return ""
 
@@ -24,12 +24,19 @@ def preprocess_text(text):
     if text == "":
         return ""
 
+    if not lemmatize:
+        return text
+
+    extra = {"however", "also", "therefore", "moreover", "thus"}
+    keep = {"no", "not", "never", "n't"}
     doc = get_nlp()(text)
     lemmas = []
     for token in doc:
         if token.ent_type_ in ("GPE", "LOC", "FAC"):
             continue
         if token.is_space or token.is_punct:
+            continue
+        if (token.is_stop and token.text.lower() not in keep) or (token.text.lower() in extra):
             continue
         lemmas.append(token.lemma_.lower())
     return " ".join(lemmas)

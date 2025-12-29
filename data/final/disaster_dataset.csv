@@ -694,6 +694,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 851,i am in kenscoff we have no home and we are sleeping on the streets we need first aid kits,0,1,0,0,0
 853,I need you to send me 50 dollars for me through CAM Transfer. Mer. .. Note : Uncomplete message. Person was trying to ask someone? to send money through a Money Transfer House ( CAM ). But the message is truncated. Please call to check. ..,0,0,0,0,0
 854,"We are the female assiciation of Shada, we need food, water, tent and medications. We are around Damien and carrefour Shada.",1,1,0,1,0
+856,"Please help me, I am at the street Bwamonket impasse pericles. No ffod, no water",0,0,0,0,0
 857,Contact his father in Chicago. He works at the national palace.,0,0,0,0,0
 858,I want to talk to someone in your organization Note : To follow-up. ..,0,0,0,0,0
 859,"Good Night. We are 8 people who are refugees in Coix des Bouquets, Duval 30. We would like to benefit from food kits and 2 tents. Thank you for your understanding.",1,0,0,1,1
@@ -1711,7 +1712,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 2006,I'd like to know where to go so I can get in contact with members of the Senate?,0,0,0,0,0
 2007,What are the political parties and types of artistes that have perished due to this event?,0,0,0,0,0
 2008,when will the tremors stop? is it true it will last a month as they are saying on the streets?,0,0,0,0,0
-2009,i would like to know when the aftershocks will end,0,0,0,0,0
 2010,"I would like to ask everyone who has hope, who are still alive today, to not eat alone.",1,0,1,0,0
 2011,Good Morning. I'd to know where I can get my passport done?,0,0,0,0,0
 2012,"I need information on how to get a visa to Canada, ( my mother lives there )",0,0,0,0,0
@@ -2596,7 +2596,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 3034,"help : water, food, way to have ( electricity )",1,0,0,0,0
 3035,"We have no water, and we have no shelter to sleep especially when it's raining. thank you",1,0,0,1,0
 3036,"Water, medications, a tent, ( X ) the police",1,1,0,1,0
-3037,which unitransfer that open in Jacmel,0,0,0,0,0
 3038,"Hello, members of the Church of the Nazareen still did not find anything like donations",1,1,0,0,0
 3039,People are under the rubbles. Some people are forced to close the streets. Please do something.,0,0,0,0,0
 3040,Can you please come move some dead bodies in Gresye because it smell really bad,0,0,0,0,1
@@ -2968,6 +2967,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 3470,I have someone under the rubbles in the delmas area. ,0,0,1,0,0
 3471,We're hungry. We need help at Cote Plage 26 in Carrefour,1,0,0,0,0
 3472,"If someone asks you about your birthday, do not hesitate to say January 12, 2010. Let say the new birthday of all survivors is Jan. 12, 2010.",0,0,0,0,0
+3473,when do they believe the aftershocks might be ended?,0,0,0,0,0
 3474,"We are in the North-West department, right in Mole St-Nicolas in Karenaj ( ? ) we need emergency aid",0,1,0,0,0
 3475,Could we get some help at Croix Des Bouquets?,0,0,0,0,0
 3476,"n for him to do, if he doesn't do it, the thing will be even worse February 12th. ",0,0,0,0,0
@@ -2994,7 +2994,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 3499,people in Mon Repos 44 have not found any help. Mon Repos is the laplaine area.,0,0,0,0,0
 3500,"Good Evening, we are in Carrefour Binou, in Ti Goave, we have no place to stay and no food. please call us",0,0,0,0,0
 3501,"We are many families victim of the earthquake in Petit-Goave. We are all on the same site, sleeping outside. we never received anything.",0,0,0,1,0
-3502,"Not even a tent. Our children have fallen ill,",0,1,0,1,0
 3503,I would like to get more info on the earthquake in Haiti.,0,0,0,0,0
 3504,Send me to live in Canada because I don't have anyplace to live.,0,0,0,0,0
 3506,I would like to know where to find a hospital,0,0,0,0,0
@@ -3031,11 +3030,11 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 3545,"Please help me. I am very ill. I have a problem with my head, I'm not.. ",0,1,0,0,0
 3547,"A little boy arrives in Port-au-Prince and takes a taxi home. All the way he sings: If Mama was a cow and Papa a bull, I would be .. ",0,0,0,0,0
 3549,"please i have problems i am hungry,do something now i went to school i need to eat find me a job now ",1,0,0,0,0
+3550,(truncated) in the departments of nippes we need material goods to help the victims we are at Grande Savane (truncated) ,0,0,0,0,0
 3551,"I am a young girl of 21 years, I am in the street. Please say a word for me, We are 8 of my mother's children, please I know that after God, it's you .. ",0,0,0,0,0
 3552,GOOD MORNING. I WOULD LIKE TO KNOW WHAT IS GOING ON TODAY IN THE COUNTRY(HAITI)? ,0,0,0,0,0
 3553,"Dear friends, I need help, please help me. ",0,0,0,0,0
 3554,food get into the country the folk is hungry do something ,0,0,0,0,0
-3555,I need information on the earthquake. ,0,0,1,0,0
 3556,"In the name of A.J.D.Q. we are asking for help for people who are not fighting/looting because I see that help is only going to people who are fighting, usespecially in usenpye need help. ",0,0,0,0,0
 3557,"I need work to help ,to be useful witout leaving my town ,I can go in the sea I can do informatic I speak many languages he needs a job wants to help ",0,0,0,0,0
 3558,Please. How much the gallon of fuel and/or diesel is selling right now? ,0,0,0,0,0
@@ -3110,6 +3109,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 3638,Im writing to say they should send aid to arrive in everyone's hands ,0,0,0,0,0
 3639,"People at Bigarat, in Damien are in trouble and are not yet visited by the authorities, nor the american, french or canadian missions. They need help. ",0,0,0,0,0
 3641,"To make food to eat, do we have to mix water and mud? ",0,0,0,0,0
+3642,"Some families at Arcachon 34, Carrefour, need aid and refuge. ",0,1,0,1,0
 3643,I need some money on my account please ,0,0,0,0,0
 3644,In Grand-Anse there are many people coming from Port-au-Prince. They need food and medicines. ,1,1,0,0,0
 3645,"We are tired of sending messages. They do not think about us for water, food and so on. We are in Delmas 33, No one takes care of us. ",1,0,0,0,0
@@ -3177,7 +3177,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 3721,If a house is not cracked can we go inside it? ,0,0,0,0,0
 3722,I would like to know the (minista) telephone ,0,0,0,0,0
 3723,Work has begun in Saint Luis already? Because life is impassable in the captial but even more so in the other departments. ,0,0,0,0,0
-3724,We need help at delmas 75 across from kiskeya christian school. Tank u! ,0,0,0,0,0
 3725,We are dying of hunger in Anse  Veau ,1,0,0,0,0
 3726,you want to know if we are not victims ,0,0,0,0,0
 3727,"Social workers are needed to help victims in Port-au-Prince, Gressier, Leogane, Petit-Goave,and Jacmel ",0,0,0,0,0
@@ -3203,6 +3202,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 3749,Wife's passport was in the USA at the time of the earthquake getting her visa renewed and it is still in the USA. (Requesting assistance) ,0,0,0,0,0
 3751,i would like to know all the information regarding the earthquake in Haiti ,0,0,0,0,0
 3752,"SOS, we need Help please. Stop sending messages telling me what to do.we are in the Streets, Alix Roi Street, Champaign Road. ",0,0,0,0,0
+3753,WHEN WE HAVE MORE AS 20 HOUSES AND 100 OF VICTIMES.. ,0,0,0,1,0
 3754,.. to help the children. I am from Mirebalais in the section of Crte .. ,0,0,0,0,0
 3755,(seemingly truncated) Port-au-Prince. We would like to help these people however possible Ok ,0,0,0,0,0
 3756,what's up I have not received and answer about the information i requested. ,0,0,0,0,0
@@ -3449,7 +3449,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 4044,It's a pleasure for me to tell you what you can do for me.. ,0,0,0,0,0
 4045,"Aceden Jasmen, behind Moulen Senmak (Saint-Marc's Mills) ",0,0,0,0,0
 4046,"Where in Petion Ville can we find: tent, help, free hospital? ",0,0,0,0,0
-4047,I would like to have some information ,0,0,0,0,0
 4048,I would like to thank very much all the doctors who came to help after the massive earthquake that hit the country. God bless you. Stay firm and strong. ,0,1,0,0,0
 4049,I have no money to buy ?. Please sent a 60 top up on this cellular to .. ,0,0,0,0,0
 4050,"I am alone, and I have my family overseas, but I can not eat. I can not call them because I do not have a calling card to call them. ",1,0,0,0,0
@@ -3669,7 +3668,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 4299,"We are in Plateau Central in Maisade, there are many victims who came here,and what we had is not enough for them, please help us ",0,0,0,0,0
 4300,"Good evening, I am asking for some information on the immigration message, please. ",0,0,0,0,0
 4301,If I get the valid Haitian passport.. what can you do for me..? ,0,0,0,0,0
-4302,"Help us here in Delmas 57 we need water and food and tents, please ",1,0,0,1,0
 4305,I would like the Minustah agent to distribute the Aid instead of Haitian officials. They are keeping the aid for themselves. ,0,0,0,0,0
 4306,"They don't give the Aid, they sell it. Even the tents are 300.00 they don't give them to us ",0,0,0,1,0
 4308,"We need sheltery we're in the street, sleeping outside. Please. ",0,1,0,0,0
@@ -4984,7 +4982,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 5833,I'm sending this message to tell all the countries that are sending help to haiti that God will have a surprise for them specially Americans. ,0,0,0,0,0
 5834,Please I forgot the website that I need to send my resume to. Please answer fast. ,0,0,0,0,0
 5835,"Good morning, president Preval. The people at Lagonave are dying of hunger. ",1,0,0,0,0
-5836,"Petite Palace Cazeau, Delmas, Port-au-Prince, Ouest, Haiti Lat/Lon: 18.5683, -72.2834 ",0,0,0,0,0
 5837,I am in the south of Camp-Perrine (les Cayes) ,0,0,0,0,0
 5838,"The advices are good is true, but I can't put them into pratice because i can't hardly live. I still feel that i'm under rubbles. Please help me live I'm tire. ",0,0,0,0,0
 5839,"Thanks but no thanks koz i requested something more than 3 weeks, all i got from you are infos that I hear daily from all the media, national  international. ",0,0,0,0,0
@@ -5191,7 +5188,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 6063,Information on what I should know ,0,0,0,0,0
 6064,"We're in Minotri, we haven't gotten rice yet, we're dying of hunger ",1,0,0,0,0
 6065,WHO CARES ABOUT GARBAGE? WHAT DI I GIVE THE UNITED NATION TAKE CARE FOR ME? ,0,0,0,0,0
-6066,My problem is trying to get to school. i don't need food. if you can help me find a bus so I can go and continue my studies it would help. Thank you ,0,0,0,0,0
 6067,"It's always that way, it's what keeps us in misery. The people who govern because they've got one thing in their heads, that's their own pockets and .. ",0,0,0,0,0
 6069,"Let's work together to save Haiti, trust in God our father ",0,0,0,0,0
 6071,How can we sign up for the PAP PADAP service? ,0,0,0,0,0
@@ -5401,8 +5397,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 6324,Hello. I wish you all good luck and good work. ,0,0,0,0,0
 6325,I want to know information please. ,0,0,0,0,0
 6326,Those of us in Lagonave we didn't anybody. ,0,0,0,0,0
-6327,jel2  Acte 5: 29 2chr7 Lev11 Ecl9 Ecl4 jos5 ch102kr Es59 ,0,0,0,0,0
-6329,The SMS:  jel2  Acte 5: 29 2chr7 Lev11 Ecl9 Ecl4 jos5 ch102kr Es59  ,0,0,0,0,0
 6332,Nounoune arrived at home. Our Jewovah 's sisters are waiting for you ,0,0,0,0,0
 6333,I feel bien with my 2 years Jt@ ,0,0,0,0,0
 6334,"How long will the distributions last in the Santo area? Please, because we are victims of they disaster too. ",0,0,0,0,0
@@ -5480,7 +5474,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 6426,"Carrefour, Mahotiere 81 and rue Desdune. We have never found anything, not even a bag of water. ",1,0,0,0,0
 6427,I'd like info on the 4636 service ,0,0,0,0,0
 6428,"Good evening, I would like to write on this program. ",0,0,0,0,0
-6430,"38, Impasse Placide, Delmas 42, Route Delmas ",0,0,0,0,0
 6431,I'd like to sign up for the 4636 message service so I can have the necessary info about Haiti. Thanks ,0,0,0,0,0
 6433,What do I have to do to get a visa? ,0,0,0,0,0
 6434,What do we do if we still haven't gotten help? ,0,0,0,0,0
@@ -5779,7 +5772,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 6758,"We thank you for your advices, however poors in four holese section did not yet get anything. we tahnk you in advance for your consideration. Our Leaders from our CAsez made a lot of request in order to help us for cold, rain .. ",0,0,0,0,0
 6759,Where I need to get Tant and food? ,1,1,0,0,0
 6760,IF I WANT TO FIND A JOB IN TRANSLATION IN HAITI WHAT SHOULD I DO? ,0,0,0,0,0
-6761,"I want to activate the internet in my phone, I do not know what to do. Can you help me ",0,0,0,0,0
 6762,I GOT NO ANSWER WHAT CAN I DO ,0,0,0,0,0
 6763,"I AM IN GONAIVES WE ARE 20 STUDENTS FROM THE UNIVERSITY, WE ARE SURVIVORS AND WE HAD NO HELP ",0,1,0,0,0
 6764,"Gonaives is one of the cities that has the most victims, without aid, without national authorities. We're broken and suffering. Thanks ",0,0,0,0,0
@@ -6342,7 +6334,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 7424,I ain't have shelter so I really need one and I want to know or to built him please. ,0,0,0,1,0
 7425,"Unfortunately, I don't have any shelter, will you give me one? ",0,0,0,1,0
 7426,I need a shelter because i sleep out in the rain. ,0,0,0,1,0
-7427,"we need the tent in the solidarity village, aiport road.please help us please ",0,0,0,1,0
 7428,EVEN THE POLICE MEN DONT HAVE A TENT CALL US ,0,0,0,0,0
 7429,THIS PLACE DONT GAT ANY HELP WE NEED FOOD TENTS ETC ,1,0,0,1,0
 7430,i would like to know how to fix a shelter. ,0,0,0,1,0
@@ -6686,6 +6677,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 7806,please can I know the medicine for a person who has the wound? ,0,0,0,0,0
 7807,"we live in province, how can we are make to profit this care? ",0,0,0,0,0
 7808,"United Nations say if you have some problem in your eyes,in your throat General hospital can help you,if you get fever go to see a docter quickly. ",0,1,0,0,0
+7809,"My Chance will tell you, that I'm waiting for your answer. ",0,0,0,0,0
 7810,A little information about the earthquake. ,0,0,0,0,0
 7811,"United Nations, we need food, we have already known those methods. ",1,0,0,0,0
 7812,I would like to find a job in english. I speak english like a real american. ,0,0,0,0,0
@@ -7431,7 +7423,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 8640,"salut,in the of the god who have all the power in the haven like in the heart.We require help in bayled's region.It's like we always never have chance to find the american's help. ",0,0,0,1,0
 8641,How is the earthquake fromthis moment in Haiti.thank you I wait for your answer now. ,0,0,0,0,0
 8642,"I would like to have informations about the cylone saison for this year (2010), thanks. ",0,0,0,0,0
-8646,Please could you make me find the e-mail or the website of the ambassy of america. ,0,0,0,0,0
 8647,"Good evening, how are you? I do not have a your news. ",0,0,0,0,0
 8648,"I am from to croix-des-bouquets,thanks for your undestanding. ",0,0,0,0,0
 8649,Exist there several another means for the treatment of water. ,0,0,0,0,0
@@ -7445,7 +7436,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 8661,"I see that you really forget me, but this fire which in my heart for you will stay forever. ",0,0,0,0,0
 8662,How the helph is? I am so ungry. ,0,0,0,0,0
 8663,"We forget the student,what we will do whith them? ",0,0,0,0,0
-8664,You are registered as an SOS message recipient.  ,0,0,0,0,0
 8665,"Good evening, can I t o have the name of evey cyclones of this season,please? ",0,0,0,0,0
 8666,"don't give the cards at the leaders (local government), use the ''ONG'' because when you give their at leaders, the peoples we don't find it ",0,0,0,0,0
 8667,We are in thomazo and we need food specialy in la hatte ,1,0,0,0,0
@@ -7471,8 +7461,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 8695,United Nation you don't want to do not thing for me. ,0,0,0,0,0
 8696,"21 donations Ephesians 4:10,11 Roman12:6 1cor12. 2thim1:7,8 Mathieu 6:25 34. ",0,0,0,0,0
 8697,I need some information Canada's affair. ,0,0,0,0,0
-8698,dress with the chretian cloth Eph 5:1 Rom 12 Rom 13:12 - 14 ,0,0,0,0,0
-8699,"If one of you don't have one talent between the 21 talent, you're not conforme to a christian!eph 4:10-13, Roman 12:6-8. N B: jacq4:17. ",0,0,0,0,0
 8700,we need medical held in Tomazo(Hatte Cadette) ,0,1,0,0,0
 8701,I would like to know WWhen The school open in the west.Thank you. ,0,0,0,0,0
 8702,"When I look at the sky, I wonder how it would be if the stars didn't exist, and I get an idea when it will rain that night. ",0,0,0,0,0
@@ -7821,7 +7809,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9102,"if there are distributions of the tents fact a thing for me, by what I have need a tent. ",0,0,0,0,0
 9103,"I give us a lot of thank for these good informations,do not slovenly,do not discourage.I share them thank you,Good afternoon.May God bless us. ",0,0,0,0,0
 9104,"Give me short message or call me, to give me a tent, rain is hard. ",0,0,0,1,0
-9105,8 @9q@@  5 m) 1A a!a ?aCYCLONE  ,0,0,0,0,0
 9106,Where they can go? what walk they have to do? ,0,0,0,0,0
 9107,"I hope to have the whole informations about everything,please! ",0,0,0,0,0
 9109,"vermin, I think that you are satisfied because of all messages that me you in way for you. do never frequent my house I don't laugh, put me then the peace. ok species of dirty vermin. ",0,0,0,0,0
@@ -7860,8 +7847,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9152,Darling how you? about me I'm very well that made a long time I haven't your news what hopes all are well? Darling I love you of much without.. ,0,0,0,0,0
 9153,I see several experts who make evaluation in the buildings: Question who is the respisible to mend a house. The governement or the owner. ,0,0,0,0,0
 9154,"Help me for delmas 9, street of quosquer! ",0,0,0,0,0
-9155,"Zacari 7v1 to 14,8v9 to 13 2 king 13v14 subject quit your sin you see all things to change. ",0,0,0,0,0
-9156,"Zachari7:1-14, Zahari8:9-13, 2 rois13:14. Subject turn one's back to the sin and God will bless you. ",0,0,0,0,0
 9157,We need help alimentary in larat kadt(tomazo) ,1,0,0,0,0
 9158,What the government will do for those who are not under the tent for the rain season. ,0,0,0,1,0
 9159,abaout the help to ask you. i d'ont have find the answer what succesfully and nothing more. ,0,0,0,0,0
@@ -7926,7 +7911,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9236,this message is not make sense ,0,0,0,0,0
 9237,"Transmit this message for us please,We need electricity in the area of Warf Jeremie. Thank you ",0,0,0,0,0
 9238,To how much the seism occurs at Jeremie? ,0,1,0,0,0
-9239,8 @9q@@  5 m) 1A a!a ?aCYCLONE ,0,0,0,0,0
 9240,We great the United Nations and ONG that help us and their service in Haiti.You should know there is a lot of organisations that a district demand theim some help but they will do anything. ,0,0,0,0,0
 9241,we have anything to find to djab slum and eternal slum except once CONCERN but the committee charges with these spots equip which dealt with to us ................. ,0,0,0,0,0
 9242,"Preval disaster-stricken, Palace broken, Port-au-prince becomes cemetery. ",0,0,1,0,0
@@ -7990,7 +7974,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9312,Are the tectonic plates in their places? ,0,0,0,0,0
 9313,Digicel puts 25.24 on your portable to verify it should make you 120 #Send. Made or receive call them international and receive some credits minutes on your telephone. ,0,0,0,0,0
 9314,This is Route Neuve Communes Cite Soleil Thanks. ,0,0,0,0,0
-9315,We neeg help at village rappatrier haitien(adress) ,0,0,0,0,0
 9316,I'm a poor I have 3 years working like teacher without salary. I would like to know when I will have my salary? ,0,0,0,0,0
 9318,How avoid dengue and yellow fever. ,0,0,0,0,0
 9319,Persons Projet lento 1 don't find anything because if they leave their houses to go on place thieves will rob everythinf they got. ,0,0,1,0,0
@@ -8282,7 +8265,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9694,what is the reconciliation site web of the Haitian Gorvernment. ,0,0,0,0,0
 9695,site relocation Haitien government ,0,0,0,0,0
 9696,"I wish you happy easter to everyone. to 4636, to the government and to the united nations. ",0,0,0,0,0
-9698,1Sam 7 : 12 (1Jn5: 1-13 ) Math 22 :  ,0,0,0,0,0
 9699,How are you? Feeling better? I have a very sore back also ,0,0,0,0,0
 9702,thank you and a lot of respect for you ,0,0,0,0,0
 9703,if u not underst just tell me that  ,0,0,0,0,0
@@ -8394,7 +8376,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9869,"I do not have anywhere to go to school,what can i do? ",0,0,0,0,0
 9870,"many dusts is killing us, what must we do? ",1,0,0,0,0
 9871,"Bonjou fr Louko mwen se simon st.pierre map koute radio 1 nan boukan-chat map mandew svp pouw salye moun sayo pou mwen: Eunide Elissain, wiskender st.pierre,et jesual st.pierre,alyas pipirit, kap koute radyo a chapotin. Msi. ",0,0,0,0,0
-9874,"2O TRI PYE, 5 POIRO, 2GD PESI, 1OMORU, 5LAY3DOLA SITWON ",0,0,0,0,0
 9875,At what time real vs barcelone will play. ,0,0,0,0,0
 9876,Good morning Wood mix I'm listening to you in Petit-riviere de nippes. I have someone who had an accident and he is at hospital. I serve with your show as a therapy. I great you.A faithful listener. Casner ,0,0,0,0,0
 9879,the earthquake of the 12th january 2010 ,0,0,0,0,0
@@ -8414,7 +8395,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9909,Have they a date the replies will finish? ,0,0,0,0,0
 9911,can i get some information about the national archive. ,0,0,0,0,0
 9915,If my heart in your heart it will be one heart like Sacre-coeur. ,0,0,0,0,0
-9917,Proverbs 11:24 Matthew 10: 40 Deuteronomy 28:1 ,0,0,0,0,0
 9918,I like you my love.you learned me what wanted to say the word happiness.and since that I deposited between your hands the destiny of my heart.good night. .!Bisou ,0,0,0,0,0
 9919,I would like to find a job and a place to deposit a resume. ,0,0,0,0,0
 9920,I need a shelter to open above. ,0,0,0,1,0
@@ -8435,7 +8415,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9943,"wi cam job we need food,water,tant co spleepy plase ",0,0,0,0,0
 9946,"Well, who can do this for me because ds darlin I love you always ",0,0,0,0,0
 9948,Good night thinking of me during the night I call upon God in prayer to take soint of you and your family too. From angel of god br ,0,0,0,0,0
-9949,tramblement de terre d'haiti le 12 janvier 2010  ,0,0,0,0,0
 9950,Measuring precaussion to take in the cyclone in sirconstance    ,0,0,0,0,0
 9951,Prcaussion cons of the aspen earth ,0,0,0,0,0
 9952,I do not like the way you give the information about the eartquake i would like to know if there is tsunami what can i do to safe my self. ,0,0,0,0,0
@@ -8447,13 +8426,10 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 9964,will we have an other earthquake ,0,0,0,0,0
 9965,"O.R.G.D.B Organisation de Recherche pour les Gens Dfavorises de Bassan wants you to kwow Bassan area doesn't find helps, please help them to find something. ",0,0,0,0,0
 9966,You do not pass to see me at all what I have done to you? ,0,0,0,0,0
-9967,Sunday 14 Ysemne muri ms 2o1o.  ,0,0,0,0,0
 9969,"Hello my friend, You're OK! I wish you good night. Your friend ",0,0,0,0,0
 9971,"Hello my friend, cmt did you spend the day?. Pr me it was not too good, because I called this morning in the free nights and even during ",0,0,0,0,0
 9972,we got a big problem to feed in 22 area w'r just need someone do did something of us pls. ,1,0,0,0,0
 9975,"A man without a job is a wolf without teeth, live without the job is searched disgust of life, yes, it is the weapon most needed to combat value does not increase the number of years.  ",0,0,0,0,0
-9976,"Strive to end so you seem to not my one such 21dons, not to be working in vain Eph4 :10-13, 1Cor 12:2 to, assists the Rom12 6-8 NBJacq4: 17 ",0,0,0,0,0
-9977,Li (u)  3! Sodium (Na)  11! Potasium (k)  19! Bryllum (Be)  4 Magnesium (Mg)  12! Calcium (Ca)  20! Boron (B)  5! Aluminium (Al)  13! Gallium (Ga)  31! Cabon (C)  6! Silicon (Si)  14! Germanium (Ge)  32! Nitrogen (N)  7! Phosphorus (P)  15! Arsenic (As)  33! Oxygen ,0,0,0,0,0
 9979,"You know that the water turns to ice and flowers in fruit, even our friendship can turn into love. Please, please give me a darling little place in your heart that I can live in.I love you and I worship you forever and ever. Answer. ",0,0,0,0,0
 9980,We need help please my family .Good noght ,0,0,0,0,0
 9981,"Zb rmd : dl 2, dl rep, dl chase ",0,0,0,0,0
@@ -8469,7 +8445,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 10002,How many aftershocks we can have. ,0,0,0,0,0
 10003,Haiti honey you're the rose thorns find the field. ,0,0,0,0,0
 10005,Caution to take about the cyclone in Haiti specially at port au prince. ,0,0,0,0,0
-10006, Call me when you get this message.  ,0,0,0,0,0
 10008,"Digiceel! I'd like to know if will have seime while thios week, answer me right now. ",0,0,0,0,0
 10009,"Zb rmd : dl c.lve dl 2, dl rep, dl chase. ",0,0,0,0,0
 10011,Good morning i need some information i never get it? ,0,0,0,0,0
@@ -9195,7 +9170,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 10954,There was an earthquake in northern Haiti in 1842 the toll remains unknown. ,0,0,0,0,0
 10955,"I thank you so to have given me the luck to express by sms. In fact, I have big need of a job in a NGO, help me please 4636. Your information will be satisfactory for me. ",0,0,0,0,0
 10957,Darling! Love is the only dream that does not dream ,0,0,0,0,0
-10960,BEGIN:VBKM VERSION:1.0 TITLE:Digicel Live Ha URL:http://172.16.3.136/mymain2.php BEGIN:ENV X-IRMC-URLQUOTED-PRINTABLE: InternetShortcut  URLhttp://172.16.3.136/mymain2.php END:ENV END:VBKM  ,0,0,0,0,0
 10962,i would like to know there is not of msm current. ,0,0,0,0,0
 10963,"It is not hollowing out to admit the truth as this one, but it is emergent and very very emergent. If who you rewarded, she will be lesser than those of God. Thank you. ",0,0,0,0,0
 10964,"There was an earthquake which passed in the North of Haiti, it was 1842.le balance sheet was unknown. ",1,0,0,1,0
@@ -9346,7 +9320,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 11197,RT pinkelephantpun Earthquake Relief Donate http bit.ly 67t0d0 Select Immediate Needs to help those affected by today s earthquake.,0,0,0,0,0
 11198,Praying that today s earthquake in #Haiti minimally affected Franceli s orphanage. &lt 3,0,0,0,0,0
 11199,RT YURFAVHALFBREED Moment of silence for those devastated by the earthquake in Haiti,0,0,0,0,0
-11200,RT lucasrohan Tem alguma coisa do Haiti? T u00f4 acomapanhando a lista nprnews haiti earthquake t u00e1 ca u00f3tico t u00e1 um horror l u00e1,0,0,0,0,0
 11201,RT SamaritansPurse Currently mobilizing a team to respond to a catastrophic 7.0 earthquake that struck Haiti today. Make an impact ht ..,0,1,1,0,1
 11202,My prayers to everyone affected by the earthquake in Haiti so sad and heartbreaking these people already suffer too much and now this,0,0,0,0,0
 11204,talking to ma mom..she lives in Jamaica still and she is just finding out about the earthquake in Haiti..,0,0,0,0,0
@@ -9442,7 +9415,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 11350,not another earthquake = i hope the people in haiti are okay,0,1,0,0,1
 11352,RT rainnwilson For all donations over 100$ to http bit.ly 8h8uJO I will send a personally signed 8 X 10 headshot #Haiti #earthquake,0,0,0,0,0
 11353,Photos from aftermath of Haiti earthquake on myfoxdc #fox5 http tinyurl.com y8agqmj,0,0,0,0,0
-11354,RT paipibat RT Teelek Flickr paipibat u0e15 u0e34 u0e14 u0e15 u0e32 u0e21 u0e20 u0e32 u0e1e u0e08 u0e32 u0e01 u0e40 u0e1e u0e34 u0e48 u0e21 u0e40 u0e15 u0e34 u0e21 u0e08 u0e32 u0e01 Flickr u0e44 u0e14 u0e49 u0e17 u0e35 u0e48 u0e19 u0e35 u0e48 u0e04 u0e23 u0e31 u0e1a http bit.ly 60OxGS #Haiti #Earthquake,0,0,0,0,0
 11359,Deadly Earthquake Strikes Haiti AmeriCares Sending Disaster Relief http dlvr.it QLp,0,0,0,0,0
 11360,#pray4haiti say a prayer for all the earthquake victims..smh..absolutely horrible devastation,0,0,0,0,0
 11361,funsize_tatz Wat happened in Haiti? i jus got home &lt &lt 7.0 earthquake,0,0,0,0,0
@@ -9628,7 +9600,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 11636,Call for community 7.0 earthquake hits Haiti http bit.ly 5nqvf3 via AddToAny,0,0,0,0,0
 11638,RT rebeccawoodhead #Haiti Haiti Earthquake Tsunami follow this for news nprnews haiti earthquake God bless. Prayers from England.,0,0,0,0,0
 11640,RT NewsQld Huge earthquake rocks Haiti concern for Australians nhttp bit.ly 77XQEc,0,0,0,0,1
-11641,u30cf u30a4 u30c1 u306e u5730 u9707 u3001 u5915 u520a u306b u306f u6b7b u8005 u591a u6570 u3068 u3057 u304b u66f8 u3044 u3066 u306a u3044 u3051 u3069 u3001 u4e0b u624b u3059 u308b u3068 u6570 u5343 u4eba u898f u6a21 u3060 u3063 u3066 uff01 #haiti #earthquake,0,0,0,0,0
 11642,RT gsdog7 Donate to Oxfam s emergency response to the earthquake in Haiti UK http bit.ly 8KpKe4,0,0,0,0,0
 11643,Anyone hear about that earthquake in haiti..very tragic,0,0,0,0,0
 11645,RT cnnbrk Hillary Clinton speaks on providing U.S. aid for Haiti following major earthquake. http bit.ly 4ilYl,0,0,0,0,0
@@ -9828,7 +9799,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 11911,RT omarepps 7.0 earthquake hit Haiti! To help the relief process go to artistsforpeaceandjustice.com r whatever you can donate is needed!,0,0,0,0,0
 11912,God has to be saying something to us for an earthquake of that magnitude to hit one of the poorest countries in the world..#WAKEUPAMERICA,0,0,0,0,0
 11913,#dontfollowmeif you bitch behind my back non stop go bitch about Haiti Earthquake and do something to help them survive this situation !,0,0,0,0,0
-11915,Earthquake List for 10 degree Map Centered at 20 u00b0N 75 u00b0W http bit.ly 4LEdrj M7.0 u4e3b u9707 u540e uff0c u8ba131 u6b21 u4f59 u9707 M4.7 M5.7 &gt 10.0 KM Depth #HAITI Region,0,0,0,0,0
 11916,Battered by major quake Haiti braces for huge death toll A major earthquake struck southern Haiti on Tuesday . http bit.ly 8019vz,0,0,0,0,1
 11919,National Briefing | West California Earthquake Damage Climbs The damage estimate from the earthquake on Satu. http bit.ly 7cbO7M,0,0,0,0,0
 11920,RT Federation RT mashable Haiti Earthquake Twitter Pictures PHOTOS http bit.ly 5YhUjG,0,0,0,0,0
@@ -9878,7 +9848,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 11979,I favorited a YouTube video Dog Senses Arcata Earthquake at News Station http youtu.be NzBnyRDwQxE?a,0,0,0,0,0
 11980,Flash haiti earthquake lane kiffin usc haiti news u2026 haiti earthquake nlane kiffin usc nhaiti news nhaiti earthqua.. http bit.ly 4yrJTn,0,0,0,0,0
 11981,The earthquake that happened in #Haiti was awful. My prayers are with the people.,0,0,0,0,0
-11982,BREAKiNG NEWS I just read about #Ha u00efti . earthquake hits 32 times in a row .We all should support those people.,0,0,0,0,0
 11983,Thousands Feared Dead as Major Quake Strikes Haiti PORT AU PRINCE Reuters A major earthquake rocked Haiti . http bit.ly 5Z5hGM,0,0,0,0,1
 11984,Frantic search for survivors after catastrophic Haiti earthquake nhttp bit.ly 6j0RCJ,0,0,1,0,0
 11988,&gt Haiti &gt Haiti needs earthquake recovery help immediately More TravelersUpdates every hour www.moja live.de,0,1,0,0,0
@@ -9942,7 +9911,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 12066,RT wcruz73 Help for Haiti after 7.0 Earthquake updated donation list a http digg.com d31FSY9?t,0,0,0,0,0
 12067,my prayers go out to haiti after that horrific earthquake..orchestra rehearsal was good but am going to take it easy for the next few days.,0,0,0,0,0
 12068,Haiti Earthquake First Images PHOTOS VIDEO http bit.ly 6YQ7hE,0,0,0,0,0
-12069,u8b93 u6211 u5011 u70ba u5728HATI u56e0 u5730 u9707 u50b7 u4ea1 u548c u4eba u6c11 u7948 u798f! let s pray for the victim and friends at HATI due to the earthquake http plurk.com p 3cogqi,0,0,0,0,0
 12070,UN Haiti headquarter collapses in earthquake n http tinyurl.com y9x5p5p,0,0,0,0,0
 12071,. haaretzonline #Israel to send rescue team to earthquake hit Haiti http j.mp 5Zn7cS http j.mp 5r26J0,0,0,0,0,0
 12072,The 1906 quake in SF? 8.0. The earthquake in Haiti? 7.0. Scary shit people. o.o,0,0,0,0,0
@@ -10894,7 +10862,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 13276,Things are getting in place. Santiago is okay and should return to normality shortly. Southern Chile is suffering much worse.,0,0,0,0,0
 13277,Follow my tweets! I'm uploading videos of Santiago after the earthquake in Chile,0,0,0,0,0
 13278,"RT ytimeschile: A video report from @LaTercera showing destruction in the town of Talca, not far from the earthquake's epicenter: http ..",0,0,0,0,0
-13279,"Chile rushes troops, aid to quake-stricken towns: CONCEPCION, Chile (Reuters) - Looters raided more stores in this.. http://bit.ly/d7amKf",0,0,1,0,0
 13281,"eramyBailey Yes, I'm from Santiago but in the south of Chile the things are not well, so many people injured and died",0,1,0,0,1
 13282,"aryaperry yeah, well i didnt felt it. im from santiago, maybe the quake was in concepcion or something.",0,0,0,0,0
 13283,"RT ruzRojainforma DISCLAIMER: We are not asking for food in any restaurant or corner of Santiago, false donations",1,0,0,0,0
@@ -10904,16 +10871,11 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 13289,"thoughts and prayers, i havent been able to talk to my mom, she lives in Talcahuano & she has no light nor water at her place. I know she's",1,0,0,0,0
 13292,"Attention! Help for those who live in Del Valle City, near Santiago, those who need urgent food and water! #MSF #Chile #Help",1,0,0,0,0
 13293,http://twitvid.com/9D21D - How people in Santiago are lining up just to get some gas.. crazy,0,0,0,0,0
-13294,http://twitvid.com/9FB89 - How people in Santiago are lining up just to get some gas.. crazy,0,0,0,0,0
 13295,"wakeningaimee OMG! friends call me, there are gangs ready to assault several neighborhoods in Santiago!",0,0,1,0,0
-13296,http://twitvid.com/61F29 - How people in Santiago are lining up just to get some gas.. crazy,0,0,0,0,0
 13297,RT ubatron: My family members in Chile are well and safe. Zero damage to their home in Santiago. Whew!,0,0,0,1,0
 13298,http://twitvid.com/B8224 - Driving down the highway that takes you to the airport in Santiago,0,0,0,0,0
-13299,http://twitvid.com/862B9 - Driving down the highway that takes you to the airport in Santiago,0,0,0,0,0
-13301,http://twitvid.com/8B55C - Driving down the highway that takes you to the airport in Santiago,0,0,0,0,0
 13302,"bcworld in Chile, curfew in Concepcion as the city gets wipped by riots. these people first after lotting the shops, they burn them",0,0,0,0,0
 13303,LJCSupt I've uploaded some videos on my Twitter of Santiago after the earthquake in Chile.,0,0,0,0,0
-13304,http://twitvid.com/C6B39 - Driving down the highway that takes you to the airport in Santiago,0,0,0,0,0
 13308,"Back to twitter, still trembling in the Concepcion area. With power supply we expect a safer night #terremotochile",0,0,0,0,0
 13309,Energy is going back in Santiago. Also its way more calm this night. Going back to normal at least in the capital of Chile!,0,0,0,0,0
 13310,"For all Santiago be well, to me nothing was happened, thank you very much for all, now we need help to the south of Chile, Food and others",1,0,0,0,0
@@ -11148,14 +11110,13 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 13663,"OMG!! We have a Hooters on Santo Domingo, They should bring one to Santiago!!!",0,0,0,0,0
 13664,Chile: Concepcion was moved ten feet by the earthquake http://bit.ly/cRxIRz,0,0,0,0,0
 13666,http://twitvid.com/555BA - Leaving Santiago to head to south of Chile with help!,0,0,1,0,0
-13668,http://twitvid.com/B849F - Leaving Santiago to head to south of Chile with help!,0,0,0,0,0
 13669,http://twitvid.com/C306D - Bypass just outside of Santiago getting into highway to the south of Chile,0,0,0,0,0
-13670,http://twitvid.com/7FA66 - Bypass just outside of Santiago getting into highway to the south of Chile,0,0,0,0,0
 13671,"kenn076 Things are ok here in Santiago but in other cities are still in pretty bad shape. We need a chat, I want to see you",0,0,0,0,0
 13673,3 hours til show time-- LIVE earthquake coverage from SANTIAGO & the best indie music 2 cheer us up-- tune in 6:00 EST: www.santiagoradio.cl,0,0,0,0,0
 13674,crudess I won't be able to go there T_T (I have to travel like 7 hours to go to Santiago),0,0,0,0,0
 13675,"New volunteer touched down into Santiago airport, departures and arrivals appears to have been replaced by tents.. Welcome to Chile Mel!!",0,0,0,0,0
 13676,"in santiago, prepared for tomorrow go to the high school, i wait return to houston in this year",0,0,0,0,0
+13677,ikePortnoyDT HEY HEY ! IM FROM SANTIAGO / CHILE ! You have any discount for the Tickets :S i dont have money for any reason lol DTHRULZ!,0,0,0,0,0
 13679,Santiago returned to normal :) we recommend you to take a tour on a bike with \,0,0,0,0,0
 13681,"cambou The 1st building is in Concepcion,. the 2nd is in Maipu. thats the building I wanted to go see.. might go tomorrow.",0,0,0,0,0
 13682,The earthquake was violent enough to move Concepcion 10feet to the west and Santiago 11inches to the west-southwest http://bit.ly/9oNfHA,0,0,0,0,0
@@ -11171,7 +11132,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 13696,Infrastructure - Chile - New Talcahuano port terminal to handle post-panamax ships - MOP: Chile's state-owned ter.. http://bit.ly/9pcpNd,0,0,0,0,0
 13699,Want to live in Chile? Tech Project Management position available in Santiago de Chile: http://bit.ly/6nTady,0,0,0,0,0
 13701,"Longday at home, hopefully with net. Starting to work preparing trip to Traiguen 150 km south Concepcion to see our Pinot. The roads down.",0,0,0,0,0
-13702,I posted 43 photos on Facebook in the album \,0,0,0,0,0
 13703,night arrive. Nightmare for everybody here in Concepcion. I don't know why but aftershocks happens always at night..nobady sleeps.,0,0,0,0,0
 13704,"QUEM Q I PRA SANTA CRUZ NO SHOW DO COPACABANA CLUB? to fechando van com o pessoal de sm, qualque coisa fala por aqui ou orkut ou tanto faz",0,0,0,0,0
 13706,ristinaRoman If I could i'll but here is such a big mess when I finally arrive to Santiago we'll go out just us to drink a lot and forget,0,0,0,0,0
@@ -11299,8 +11259,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 13894,"Today I arrived in foggy Santiago, Chile to begin my official maqui berry venture! After flying nine hours on the plane from Dallas, Texa..",0,0,0,0,0
 13895,lextriplex avisa a galera do blog que eu to aqui em Santiago tentando falar com eles desde sabado mas nao consigo logar nos coments daqui.,0,0,0,0,0
 13896,"http://twitpic.com/18uv8k - [Pics before the earthquake] La Moneda Cultural Center, Santiago. Exhibition: Ancient China and the Terracotta A",0,0,0,0,0
-13897,"http://twitpic.com/18uvbv - [Pics before the earthquake] La Moneda Cultural Center, Santiago. Exhibition: Ancient China and the Terracotta A",0,1,1,0,1
-13898,"http://twitpic.com/18uvm6 - [Pics before the earthquake] La Moneda Cultural Center, Santiago. Exhibition: Ancient China and the Terracotta A",0,0,0,0,0
 13900,Another strong aftershock in the south of Chile that people on Santiago felt also,0,0,0,0,0
 13901,piabm where are you in santiago?,0,0,0,0,0
 13903,"evaxo hey! Everything's getting back to normal in Santiago at least, slowly tho. Southside its gonna take a while",0,0,0,0,0
@@ -11549,12 +11507,12 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 14582,"Sir we request UN people that if you give aid in Sindh please bring it directly to flood affected area, In our district NGOs work only on directions of MPA and MNA. We have no food, tent or clean water. Please to all of us..",1,1,0,1,0
 14583,"sir we are requesting to the UN people that if yo bring aid to sindh then please you people should distribute it. in our dist NGOs work on the source of MPA  MNAK.We don't have tent, clean drinkable water and food.",1,0,0,1,0
 14585,situation was very critical in taluka lakhi Ghulam shah,0,0,0,0,0
-14586,situation was very critical in taluka lakhi ghulam shah,0,0,0,0,0
 14587,"Sufficient food, accomodation and medical facility available in Sukkur for",1,1,0,1,0
 14588,"Sufficient food, accommodation and medical facility available in Sukkur for",1,0,0,1,0
 14590,SULTAN AHMAD S / O Ahmad Yar Basti Dera AHMADYAR BHATTER DAKKHANA FAREEDI TEA Liaqat RY KHAN PUR DEST MERA Watan CARD NAHEN Bana BARAE MAHERBANI AAP MUJHAY BHE Watan Shukri DEN DAY CARD,0,0,0,0,0
 14591,Sultan Kot need food assistance,1,0,0,0,0
 14593,SYED EJAZ BUKHARI MAOZA SHAH WALI TEHSIL ALI PUR DISTT MUZAFAR GARH IF U HAVE UR REP,0,0,0,0,0
+14594,syed Mazahir Abbas Mouza Shahwali Tehsil Ali Pur District Muzaffar Garh About 300 Housholds. Starvation. No Rescue Team reached.,0,1,1,0,1
 14595,syed Mazahir Abbas Mouza Shahwali Tehsil Ali Pur District Muzaffar Garh. About 300 Housholds. Starvation. No Rescue Team reached.,0,0,1,0,0
 14596,"Taluka KN Shah, District Dadu is heavily affected by the flood",0,0,0,0,0
 14598,"TAUSEEF KHAN S/O AKBAR DIN MIANWALI TEH ESSA KHEL VIA KALA BAGH P/O TOLA MANGLI VILLAGE MUHABBAT KHEL sir may selab say motaser howa houn,but what i can",0,0,0,0,0
@@ -11611,6 +11569,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 14692,Why wouldn't there be a hurricane coming here in time for my flight to Orlando? _This storm is perfect to go surfing _ .,0,0,0,0,0
 14693,Can't wait for this New York hurricane aka its gonna rain outside.,0,0,0,1,0
 14694,How am I supposed to hurricane prep when I'm stuck working??Totally worried about my car for this storm. Especially since its like an inch off the ground. Oh and falling trees.,0,0,0,0,0
+14695,Sandy who?It's Friday people!!!!! So looking forward to this weekend. The hurricane #sandy better not ruin for me,0,1,0,0,0
 14696,Having multiple glasses of wine tonight _ #sandysucks,0,0,0,0,0
 14699,"Just getting ready for the hurricane, Well be ok cuz Gods on our side :-) (@Victor's Weather/Tech Center) http://t.co/67guzSjK",0,0,0,0,0
 14700,"WEEKEND OF WORRY: Millions Bracing for Hit From Hurricane Sandy, http://t.co/WcWA0E2P - Sent via the FOX News Android App.",0,0,0,0,0
@@ -11638,6 +11597,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 14735,"VacchianoNYDN frankenstorm . Now that's some media hype if I've ever heard it lol (I know you didn't start it)Well, we're stuck in New York for a few days because of the hurricane. What's an emergency kit? Who moved my cheese? Where are my pants?To wor",0,0,0,0,0
 14736,"A tsunami warning is issued for Hawaii, following 7.7 quake in NW Canada. Hurricane Sandy aims at NY, NJ, CT. Biztato elorejelzesek..",0,0,0,0,0
 14738,#sandys coming to NYC greaat :/,0,0,0,0,0
+14740,"Need to get outta here before that whore Sandy arrives@MayorMark. Just saw the weather channel updated storm surge there calling for 6 to 11 feet unreal in long island sound.So now they're calling it #frankenstorm. really? #oyveyI feel bad for the animals at the zoo cause of storm coming wait did they ever shut down bridgeton zoo@harumble yup, the delightful Sandy.Sandy where are ya? Stepfather has the candles and flashlights waiting for you. #calmbeforethestormPosting updates from Woodbridge Nj (@Hurricane Sandy) http://t.co/fOfpsKvZ",0,0,0,0,0
 14745,Wow after the sandy hits were suppose to get a blizzard FOHHurricane sandy is somethin serious,0,0,0,0,0
 14746,No power for at least 10 days?????? Whoa. #Frankenstorm,0,0,0,0,0
 14750,"insper23 I know the storm is gonna stay over us until Tuesday morning, so no mikey for tonight and Monday :/Before the Storm @Central Park Reservoir Lake http://t.co/xnganAsw",0,0,0,0,0
@@ -11690,17 +11650,16 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 14856,"Frankenstorm is a coming! Time to batten down the hatches and..move in to work for three days.. http://t.co/sRtfkhtgwell, no more work for today.. stuck at home during storm.. anyway, it s good time @Cozy little residence http://t.co/dL0s7Feq",0,0,0,0,0
 14857,intoInc a bullseye hit on NY harbor. Storm surge up to 11ft. Water to flood subways. Most of us have not seen anything like this in NY.@Zangschwag @jeremylevart what happened #sandyhandy,0,0,0,0,0
 14862,I can't wait for this hurricane.. Is that weird????,0,0,0,0,0
+14863,No bread - courtesy of Sandy #NewYorkCity #NYC #NY #InstagramNYC #iPhoneography #iPhonesia #IG #I @Key Food http://t.co/Zh8QMFN8,1,0,0,0,0
 14881,The bitch is on her way.. #sandy,0,0,0,0,0
 14887,Alert: need Twitter accounts for all #sandy-cams.,0,0,0,0,0
 14888,"Midterm deadline extended. Thank you, #sandy",0,0,0,0,0
-14893,"Favorite sandy potential victim quote ""I'm battlin' sandy with rum. It says one part grapefruit juice, splash of cranberry and grenadine.""",0,1,0,0,0
 14894,hemermaidnyc thanks for being open tonight pre #sandy ! Oyster happy hour and a half was delicious! http://t.co/TpiG42EL,0,0,0,0,0
 14895,"I don't know anything about hurricanes or weather. But this is a category one and they keep using words like ""historic"" and ""deadly"". Idk.",0,0,0,0,1
 14898,Shiddd. All these tweets bout twerking on us in the east coast. I ain't seen no ass yet. #fuckyousandy,0,0,0,0,0
 14900,Nobody blows harder than sandyHalloween 2012 (@Frankenstorm Apocalypse - Hurricane Sandy w/ 3342 others) http://t.co/1DEe9pj6,0,0,1,0,0
 14903,From #wfsb mobile newsroom: Out of state power co. trucks head down CT highways. #SandyCT,0,0,0,0,0
 14906,Looking out the window it's so silent! This is either gonna be a hardcore storm or ?,0,0,0,0,0
-14909,Halloween 2012 (@Frankenstorm Apocalypse - Hurricane Sandy w/ 2095 others) http://t.co/2jG6GpwO,0,0,0,0,0
 14910,About to survive 2 hurricanes and one year. Nigga I'm a G,0,0,0,0,0
 14912,ikixAnn I woke up in a hot flash about a half hour ago.I've been watching cash cab :3 WHERE'S SANDY AND WHY IS MY GROUND DRY?!,0,0,0,0,0
 14914,Working into the hurricane so that you can all get the latest news. (@CBS Broadcast Center) http://t.co/dnL1XUbV,0,0,0,0,0
@@ -11709,6 +11668,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 14918,"So..I bought a 3DS and I've got the Fay off because of Sandy. I know what I'll be doing today!Sandy, New Jersey'e dogru yoneldi.",0,0,0,0,0
 14920,Sandy is Trynna swipe away the tristate!,0,0,0,0,0
 14922,Frankly I'm in New York right now and I'm watching the weather channel and hurricane sandy is a bit shitI really want my morning Venti Soy Chai but all Starbucks are closed !!!!! #sandyisabitch #SandyWeAllHateYou,0,0,0,0,0
+14925,"No rain yet but plenty of wind. Ready as we'll ever be. #sandy#Frankenstorm Police have all entries to downtown Highlands blocked off.Ugh leaving my apartment to go into the unknown.. they better allow us back here! Im freaking the fuck out!!! Go away #sandy@marashomemade that's a hell of a storm surge! Not seeing much here in the city yet. Stay safe!@piersmorgan Wondering how many babies in New York will be called #Sandy in 9 months time #makethemostofit@danbowens I love how in the midst of a hurricane, your hair looks dry! LOL",0,0,0,0,0
 14926,prepping for the storm. hiding out in joes apartment making penne ala vodka and parm chicken Incase the power goes out.Hide your kids hide your wife (@Frankenstorm Apocalypse - Hurricane Sandy w/ 915 others) http://t.co/Tc0qGC7lSandy is interrupting my sleep. _,0,0,0,0,0
 14927,eLaConcha will open at 9:30AM today and stay open till which time that it starts to become unsafe. #sandy #cigars,0,0,0,1,0
 14929,Where's sandy? @Mercedes House http://t.co/cfC9WByuGood joke sandy. I knew you'd come through.,0,0,0,0,0
@@ -11718,6 +11678,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 14934,Pray for me in the hurricane :(,0,0,0,0,0
 14935,How's it going in your neighborhoods? Take a photo if you can. (@Frankenstorm Apocalypse - Hurricane Sandy) [pic]: http://t.co/GJdofpZN,0,0,0,0,0
 14939,Winds picking up .. Sandy has turned toward Jersey.. She's going to the Jersey shore.. She's one pissed off woman..,0,0,0,0,0
+14940,"Hotel provide us with some rain equipment, also gave us a bigger room #sandy http://t.co/bQPca1PK#hightide coming in #sandy #frankenstorm #bellisland @East Beach - Bell Island http://t.co/Ud9TCLLM",0,0,0,1,0
 14941,"No school today or tomorrow, thanks sandy:) lol",0,0,0,0,0
 14945,east river park is now flooding with a few inches of water #sandy http://t.co/9Mm8LjCM,0,0,0,0,0
 14947,"Some people may be happy to see a Walmart boarded up, but not for this reason. #sandy @Walmart http://t.co/Oz9k2o31",0,0,0,0,0
@@ -11728,6 +11689,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 14956,"Wind 16.0 mph NNE. Barometer 982.09 mb, gust 31.0, Temp 56.9 &amp;deg;F. Rain 0.00 in. Humidity 95% hurricane cam http://t.co/Sq2ekENuWind 16.0 mph NNE. Barometer 981.68 mb, gust 26.0, Temp 57.1 &amp;deg;F. Rain 0.00 in. Humidity 95% hurricane cam http://t.co/Sq2ekENu",0,0,0,0,0
 14957,"Lynch: 2,800 line and tree crews will be staged at sites similar to one at six flags. #frankenstormGood Morning #Sandy __My grandparents love going out in days of storms",0,0,0,0,0
 14958,Crowds gather along West St. To watch the Hudson as it swells and laps at the breakwater. #HurricaneSandy #Sandy NYC http://t.co/D4Wdwa8f,0,0,0,0,0
+14959,Subway stations closed today #sandy @Times Square http://t.co/xpaHSv5K,0,0,0,0,0
 14965,attVuono sandy hook is just gonna float away hahaha,0,0,0,0,0
 14967,If sandy ruins trick or treating ill be pissed #srslytho,0,0,0,0,0
 14969,MDuross @lucyintheusa @kaybellor hubby making pork fried rice on gas stove. Not your usual hurricane fare unless you're Chinese.People have nothing better to do than come in during a hurricane and get there stupid phones fixed,0,0,0,0,0
@@ -11755,6 +11717,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 15011,fighting against wind / ventured out for some coffee / in Halloween storm #haiku http://t.co/DqBPxW6F,0,0,0,0,0
 15013,"#RomneyStormTips ""Keep Gov Christie out of the water to keep the storm surge down.""Fighting Against the Storm! This it's one brave birdy!!! @Mi Casa http://t.co/ysXoGi6F",0,0,0,0,0
 15014,"Sandy update: rain and wind increasing slightly, lights just flickered. Upper East Side maintaining normalcy for now.",0,1,1,0,1
+15018,Sandy is officially here. #hurricanesandy #Hurricane #Sandy #NewJersey,0,0,0,0,0
 15019,llapalooza same. I went out for fried chicken and coffee. No one gets us. #Sandy,0,1,0,0,0
 15021,#Frankenstorm has the power out in the entire neighborhood.they're so bored in my house everyone went to sleepJust lost power #fuckyousandy,0,0,0,0,0
 15022,I should have gotten some McDonalds or something before this hurricane..shit.Idc im still doing mischief night tomorrow.. Soo fuck you Sandy!!,0,0,0,0,0
@@ -11763,6 +11726,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 15031,"Kong is no match for Puck's hurricane-induced stress-chewing, apparently. http://t.co/EyV7ucbG",0,0,0,0,0
 15034,I should sleep through this hurricane.,0,0,0,0,0
 15035,"My family is so not prepared for this storm@hurricannesandy You are so loud, I'm tryin to watch tv over here plz stop okayTaking a nap because Sandy gon keep us up alll night.",0,0,0,0,0
+15037,"Hurricane Survival Food!! #HurricaneSandy @Gramercy, NY http://t.co/kJCxbmeY",1,0,0,0,0
 15040,"Lost power in Short Hills, NJ as of 3pm Monday #Sandy",0,0,0,0,0
 15041,"I know they're not Sean John sweatpants, but it's a hurricane. @City One Chinese Restaurant http://t.co/AVjosTit",0,0,0,0,0
 15043,tree snapped into the street and it kinda looks like a dude chained his bike to it. #sandy @Il Bastardo http://t.co/fG67HDBO,0,1,0,0,0
@@ -11774,6 +11738,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 15061,anToon927 yes. I been in lots of hurricanes. They're cool.,0,0,0,0,0
 15062,teffEsposito this storm sucks!Right as I was taking a kick to the house. Sandy sandy sandy.I've just packed up my belongings and left my rattley-windowed room to go somewhere warmer. Then met 2 boys going out to get a tattoo #Sandy#sandy is a whoreThis,0,0,0,0,0
 15064,blow me! (@Frankenstorm Apocalypse - Hurricane Sandy w/ 2864 others) http://t.co/bcAk6ygD,0,0,0,0,0
+15068,"Rockin civ pro by candlelight. Come at me, #Sandy! http://t.co/La2hTKe5@BBCBreaking It's getting very real that something bad is coming our way. The winds are incredibly strong - high tide 3hrs away. #Sandy",0,0,0,0,0
 15072,This hurricane ain't shit. I wanna go jogging outside just cuz.Su NY1 dicono che stasera downtown the water arriver fino a Water Street. #sandy,0,0,0,0,0
 15075,"5th ave in a hurricane = deal, NJ on a normal day #desertedI mean, I guess it's time to finish that pizza now. #Sandy",0,0,0,0,0
 15076,Sandys gonna make me gain like 80 pounds and shit,0,0,0,0,0
@@ -11781,6 +11746,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 15078,ei_katherineee the storm dumb asian bitch hahahah omg im going crazy mei,0,0,0,0,0
 15080,Sandy is screaming my way. Awww fuck! Neighbor taped his windows!,0,0,0,0,0
 15081,"Nigga on Instagram deadass went hard, wrote a paragraph on how everyone over exaggerating about the hurricane and shit ___This Storm Is F'cking Up My Time With My Bae :(",0,0,0,0,0
+15082,5:57 PM IT'S GETTING BAD OUT.. #HurricaneSandy2012 http://t.co/2m6IjY8JI keep yelling at the newscasters on TV who are reporting from the beach. We get it. It's bad out. Now leave and go be safe!!! #wine #sandy,0,0,0,0,0
 15083,Sandy is getting me tightTonight shall be a special #Sandy show. Who's inAnd..the power is out #sandy,0,0,0,0,0
 15085,Fuck hurricane sandy this bitch can't beat me lmaoooHate this hurricane ugh #Sandy,0,0,0,0,0
 15089,i really wish they named this hurricane snooki! @snooki,0,0,0,0,0
@@ -12156,6 +12122,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 15851,"She explained to us how, when the earthquake occurred, the ensuing landslide shifted a mountain of land in the area in powerful jolts which caused the Revenue Department building to be moved forward about 120 meters in a terrible land shift.",0,0,0,0,0
 15853,"Unlike forest fires in other areas, it is very difficult to spot the fire early because the roots and lower trunks of the cajeput forest have caught fire even as their canopy remains green.",0,0,0,0,0
 15854,"In addition to record-breaking rains and floods in multiple localities in July, three typhoons hit eastern China August 3-8 in quick succession, affecting millions of people and resulting in extensive flooding in China's eastern and coastal provinces.",0,0,0,0,0
+15855,"A tropical low-pressure system in the Tonkin Gulf and moving towards the northern region, would dump heavy rains and trigger landslides from late Monday, the government said in an urgent message to the military, police and rescue forces.",0,0,1,0,1
 15857,"Adequate rainfall, improved security in the south and most of the east and agricultural rehabilitation helped to compensate for a lack of fertilizers and damage caused by floods in some areas, an unusually cold and snowy winter, the devastating earthquakes and continuing conflict.",0,0,0,0,0
 15858,"An earthquake measuring 8.7 on the Richter Scale was registered Dec. 26, 2004, west of the island of Sumatra, triggering tsunamis in south and southeast Asia.",0,0,0,0,0
 15859,"A high population growth rate, dwindling farm size, unjust patterns of land tenure, inefficient farming techniques, deforestation, and degraded soils all contribute to chronic disaster.",0,0,0,0,0
@@ -12186,6 +12153,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 15887,As preparedness to the forecasted cyclone sidr special Emergency Response teams have been deployed in the South West Bangladesh to strengthen WFP's local management.,0,0,0,0,0
 15888,"The bodies of 19 people were recovered in Jhal Magsi, 18 in Awaran, 20 in Kharan, 40 in Naal area of Khuzdar district as the floodwater receded from the areas, raising the death toll to 380, Aaj news channel said.",0,0,0,0,1
 15889,"If rain stops, imagine how many can we have.",0,0,0,0,0
+15890,"The most seriously affected department is Oruro, where more than 70 percent of the production of quinoa cereal has been lost and the mortality rate of cattle has reached 25 percent according to the National Service of Early Warning and Food Security (SINSAAT).",1,0,0,0,1
 15891,"A snow blizzard started on midnight of 31 December 2000 in Gobi, Central and East parts of the country.",0,0,0,0,0
 15892,"The villages badly affected due to tornado were included Makki-460, Makki Shahabaan, Sachaa Soda, Dera Nigah, Baddiyawala, Foundation House and Dera Allah Ditta.",0,0,0,0,0
 15893,Fear of the impending storm has spread through the makeshift camps.,0,0,0,0,0
@@ -12194,7 +12162,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 15896,Last week Ncube along with MDC leader Morgan Tsvangirai met with representatives from South Africa's ruling African National Congress (ANC) and the Congress of South African Trade Unions (COSATU) and urged them to send election monitors to Zimbabwe at least three months prior to next year's presidential elections.,0,0,0,0,0
 15897,"During the last three years, Balochistan and parts of Sindh Provinces have received below average rainfall, which has progressively turned into a drought.",0,0,0,0,0
 15898,The Ministry of Agriculture encourages farmers to grow drought tolerant crops and buy their maize with the income that they earn from them.,0,0,0,0,0
-15899,"The 8.7 magnitude earthquake centered off Sumatra's western coast wreaked wholesale destruction on the island of Nias yesterday (March 28, 2005), leaving anywhere from 300 to 2000 dead and early estimates of at least 25,000 displaced on Nias and other islands in the midst of widespread damage to structures, critical facilities, and lifelines.",0,0,0,0,1
 15900,"Many of them, therefore, have been dependent on small-scale agriculture, such as the cultivation of cassava, sorgum, millet, or beans, that have been most affected by the floods.",0,0,0,0,0
 15901,A strong southwest monsoon prevailing over the Andaman Sea is causing abundant rainfall and isolated heavy rain in certain parts of the country.,0,0,0,0,0
 15902,"An increased number of deaths among cattle and goats is suspected of having been caused by consumption of ash-coated grass, leading to deterioration of the animals' digestive system and poisoning by fluorosis, or excessive fluoride.",0,0,0,0,0
@@ -12354,6 +12321,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 16075,"WFP is presently helping to feed 720,000 people in Indonesia, including more than 22,000 people on the islands of Nias and Simeulue in the wake of a massive undersea earthquake on March 28.",1,0,0,0,0
 16076,The administration had since prepared evacuation routes in case of flooding and also held a flood evacuation simulation exercise last year.,0,0,0,0,0
 16077,* New earthquake hits mountain area south east of Fayzabad.,0,0,0,0,0
+16078,"01/18/2014 09:47 GMT JAKARTA, January 18, 2014 (AFP) - The death toll in days of floods and landslides in Indonesia has climbed to 23, an official said Saturday, as torrential rain pounded the capital.",0,0,0,0,1
 16079,"The President, focusing his attention on the problems of the drought stricken farmers in the dry zone, has instructed the officials to expedite the provision of government relief to the affected people in the Anuradhapura and Polonnaruwa Districts.",0,0,0,0,0
 16080,Approximately 1.9 million people have been affected in the past week by heavy torrential monsoon rains which flooded 195 blocks in 14 districts of the State of West Bengal.,0,0,0,0,0
 16081,"Before blistering temperatures parched crops and stoked wildfires, the economy had been expected to grow about 4 percent in 2010 after dropping by 7.9 percent last year -- the first contraction in a decade.",0,0,0,0,0
@@ -12363,7 +12331,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 16086,"* Reduced mortality and morbidity among women, adolescents and children due to post-flood outbreak of communicable and infectious diseases.",0,0,0,0,0
 16087,The weather officials said the cold wave conditions have intensified and people should brace for a harsh winter.,0,0,0,0,0
 16088,"Experts sent to investigate said the mudslide was triggered by the heaviest rain in the area in 300 years, adding the recent drought had made the ground drier than usual, making it easier for downpours to sweep away sand and rocks.",0,0,0,0,0
-16089,"Every year, landslides kill more than 100 people, destroy 3,000-4,000 houses, affect 8,000-9,000 families, and cost USS$1 billion, according to the government.",0,0,0,0,1
 16090,"Editor: huaxia BEIJING, April 26 (Xinhua) -- A 5.3-magnitude quake shook Nyalam County in southwest China's Tibet Autonomous Region at 1:42 a.m. Sunday following strong earthquakes in neighboring Nepal, the China Earthquake Networks Center said.",0,0,0,0,0
 16091,"Fearing that the current El Niño manifestation would cause severe drought in Southern Africa, governments had encouraged early plantings of drought resistant crops and water conservation measures and had distributed seed packs and other inputs.",1,0,0,0,0
 16092,"(Ongoing grass fires of China were speculated with, no official information on them was available).",0,0,0,0,0
@@ -13291,6 +13258,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 17114,"In Assam and Arunachal Pradesh states the Brahmaputra river crossed its highest flood level mark, breaching embankments, changing course and destroying agricultural land and thousands of homes, New Delhi Television reported.",0,0,0,0,0
 17116,"This year, high levels of water draining from north-east India into the Bay of Bengal through Bangladesh, have caused floods and severe river erosion, with an increasing risk of tidal floods along the coast.",0,0,0,0,0
 17117,"The Somali Diaspora have donated generously and the first International aid agencies, Qatar charity has provided emergency supplies.",0,0,0,0,0
+17118,"The relief group is appealing for donations of funds from the public and corporate donations in bulk of health care materials, water purification supplies and food supplements which it will ship to the region from its base in the Port of Los Angeles.",1,1,1,0,0
 17119,"Widespread flooding in Zimbabwe Zimbabwe has experienced continuous heavy rainfall since December, with widespread flooding causing damage to infrastructure and property.",0,0,0,0,0
 17120,"As a result, people living in the region say their children have had to endure harsh winters and sweltering summers being taught out in the open with no shelter.",0,0,0,1,0
 17121,"The long term drought has reduced water supplies and reservoir levels, degraded pastures and resulted in reduced sub-soil moisture availability for the second cropping season.",0,0,0,0,0
@@ -13318,7 +13286,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 17145,The system enabled the pastoralist communities and Syrian steppe rangelands to cope with drought.,0,0,0,0,0
 17146,"ISLAMABAD - The heaviest monsoon rains to hit Pakistan in over 80 years continued to fall over the weekend, exacerbating the floods and frustrating efforts to help the victims.",0,0,0,0,0
 17147,"KUWAIT, Jan 2 (KUNA) -- The Cabinet decided at its weekly regular session on Sunday to increase the aid allocation for south Asian nations stricken with the recent deadly tsunami by eight million US dollars.The cabinet, during the regular meeting, followed up on the tragic conditions in the south Asian countries as a result of the eartquake that struck these states last week.",0,0,0,0,0
-17148,She further invited volunteers to her company to solicit donations from her colleagues.,0,0,0,0,0
 17150,"The weekend's heavy rains, brought on by Typhoon Peipah, which had faded to a tropical depression before making landfall, saw waters rising again in central Vietnam, which has been hit by floods four times this yar.",0,0,0,0,0
 17151,"A forecast of more hot weather and strong winds is fueling fears of new or rekindled fires in the region, where scores of people have died, at least 4,000 made homeless, and some 500,000 acres burned.",0,0,0,0,1
 17152,"Overall, however, the seasonal rainfall totals were average to above average in the region.",0,0,0,0,0
@@ -13351,6 +13318,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 17182,Humanitarian Response to landslides:,0,0,0,0,0
 17183,"Double-cropping should cease, to prevent disaster and loss from a water shortage.",0,0,0,0,0
 17184,"Shelter provides protection from rains, sandstorms, sun and heat, diseases, wild animals, crime and assaults.",0,0,0,1,0
+17186,"In addition to the above-mentioned items, the RCST DRT in Kurgan-Tube region distributed items provided by different international organizations: United Nations Children's Fund (14 tents), United Nations High Commissioner for Refugees (300 tents, 300 plastic sheeting, 300 jerry cans, 1000 quilts, 6,000 soaps and 300 kitchen sets - each consisting of a cooking pot, a cooking pan, a tea-pot, a scoop, a knife, 5 bowls and 5 spoons).",1,1,0,1,0
 17189,"The All India Radio and television channels are giving hourly bulletins, disseminating do's and don'ts to protect people from heat strokes.",0,0,0,0,0
 17190,"Two powerful earthquakes rocked the Indonesian island of Sumatra, with the death toll likely to be in the thousands, and a tsunami battered American and Western Samoa, killing nearly 150.",0,0,0,0,1
 17191,"An armyworm infestation first noted in late April has abated in most locations, following the onset of the rainy season in June.",0,0,0,0,0
@@ -13366,7 +13334,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 17202,Alarm Level II Dangerous flood condition - Flood plane inundation expected; towns and cities still generally protected by flood defences; high velocity River flows pose danger of bank and dyke erosion; bridge foundations at risk from scour; infrastructure generally safe.,0,0,0,0,0
 17203,"The International Federation of Red Cross and Red Crescent Societies (IFRC) has today increased its China earthquake appeal to 96.7 million Swiss francs (USD 92.7 million /  59.5 million) to support a three year emergency and recovery programme for approximately 500,000 earthquake affected people.",0,0,0,0,0
 17204,The urban flooding is considered as a recent phenomenon by the National Disaster Management Authority (NDMA).,0,0,0,0,0
-17206,"In the neighboring Gansu Province where more than 360 people were killed in the massive quake, water supply had been restored for 597,000 of the 647,400 affected.Although three districts of southern Somalia are the only parts of the Horn of Africa currently experiencing famine conditions, some eleven million people across the region in are currently estimated to be in need of food assistance following the worst drought in 60 years.",1,0,0,0,1
+17205,"Previously many refugees in Kabul were living in tents with nothing to insulate them from the cold damp ground, and little fuel or heating.",0,0,0,1,1
 17208,The tremor occurred in the juncture of Pingwu and Beichuan counties in Mianyang City.,0,0,0,0,0
 17209,"January 17, 2006, Islamabad, Pakistan - Direct Relief's extensive experience in providing assistance in the aftermath of earthquakes has shown that reconstructive surgeries, rehabilitation, and assistance with prosthetics and assistive devices emerge as significant long-term challenges for many victims of traumatic injuries.",0,1,0,0,0
 17210,The Pakistan Meteorological Department (PMD) has been issuing warnings since the onset of the pre-Monsoon season in mid-June and issues continuous weather and flood advisories and warnings to assist in emergency relief (http://www.pakmet.com.pk) Heavy and persistent rainfall has been recorded since July causing severe flash floods and widespread flooding.,0,0,0,0,0
@@ -13538,7 +13506,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 17386,"To reach quake-affected villages, team members drive as far as possible on snow-covered roads, sometimes having to push the vehicle through snow drifts, and then climb through the snow.",0,0,0,0,0
 17387,"The degree of damage can be observed from cut off of electricity in several areas, impassable roads due to landslides, 810 houses were washed by flash floods, 3,687 houses were severely damaged, 2,723 houses with minor damage, damaged public buildings and shortage of potable water.",1,0,0,0,0
 17388,"He had last heard his sister sobbing on the phone, saying water levels were menacingly rising and could drown them anytime as he spoke to her from Baramulla, which remained untouched from the flood fury.",0,0,0,0,0
-17389,"Ministry officials said they had been trying to deploy health workers to badly affected areas using two military helicopters, but the aircraft were only of limited use due to the continuing appalling weather conditions, a spokesman said.",0,1,1,0,0
 17390,"This raises even more questions about whether a vaccine can help, said Herve Raoul, a leading expert on pathogens and research director at the French Institute of Health and Medical Research (INSERM).",0,0,0,0,0
 17391,The week-long tropical monsoon mixed with a cold depression brought storm and heavy rainfall to Central Viet Nam from 14 to 19 October 2003.,0,0,0,0,0
 17392,Problems stemming from a near failure of monsoonal rains during the past two years include severe agricultural stress and pasture degradation.,0,0,0,0,0
@@ -13600,6 +13567,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 17457,Local governments were urged to take measures to combat droughts and floods in major grain production bases and to step up monitoring of freak weather.,1,0,0,0,0
 17458,The Minister of Disaster Management A.H.M. Fowzie said that Assistant Government Agent=B4s (AGA) offices and Government Agent's offices have been informed on the matter and that there is no shortage of funds allocated for disaster relief.,0,0,0,0,0
 17460,"We are seeing very intense, torrential showers over a short period of time completely saturating the ground. On October 31 a massive cyclone hit the state of Orissa in northern India. For other diseases in this category, such as giardiasis and infection by helminths (such as hookworm), no data were readily available as these diseases are not notifiable. According to official government assessments, approximately 184,000 hectares of oil palm plantations were affected by lowland flooding. CARE International, the world's third largest aid agency, is warning a serious public health threat could be on the way as the floodwater recedes. In other areas, the parasitic weed, Striga hermonitheca (witchweed), which is especially problematic on Sorghum grown in nutrient poor soils, is now widespread throughout the rain-dependent cropping areas of northern Ethiopia, where it significant lowers potential crop yields. JAKARTA, Jan 24 (AFP) - A strong earthquake shook Indonesia's Sulawesi island Monday, damaging dozens of shops and homes and prompting thousands to flee for fear of a repeat of last month's tsunami disaster. Besides, other projects have also been supported such as: planting mangrove forest, enhancing capacity of community; transferring clean technology, clean development mechanism, eliminating substances causing ozone depletion, etc. Another earthquake shakes north-eastern Afghanistan. Israel offered assistance to Pakistan after a massive 7.6-magnitude earthquake rattled the country on October 8, despite the absence of relations between the two countries. ROME - The connection between climate and hunger was made abundantly clear this summer when torrential rain lashed Pakistan, causing devastating flooding that submerged farmland, obliterated crops and left 10 million people in need of food aid. The scale of the rehabilitation programme, in addition to the difficult environment, particularly the incessant monsoon rain and the acute shortage of masons, has resulted in a further extension of the operation until 31 December 2000. Its deadliest eruption occurred in 1930 when more than 1,300 people were killed. In addition to Assam, West Bengal and Bihar, the states of Arunachal Pradesh, Andra Pradesh, Uttar Pradesh, Himachal Pradesh and Marahastra have also experienced extensive flooding caused by the seasonal monsoon rains. While the country grapples with rising food prices, there are daily power cuts lasting three hours and 20mins in 78 regions with high electricity consumption as the hydropower sector buckles under more intense heat and quicker water evaporation. Famine Early Warning System (FEWS)/Somalia estimates losses of Gu'crops in traditional underground granaries due to floods and rain water seepage at 31,1000 tones. The Branch, with Appeal funds, successfully completed the water distribution and support programme, delivering containers and water via the Branch ambulance boat. It is a project, which will be implemented in all tsunami-affected districts before the monsoon winds and rain begin in October. The earthquake rocked the region around 6 a.m. Saturday killing more than 5,100 people, seriously injuring 6,500 and leaving 200,000 homeless, according to the Indonesian government. We also encourage medical workers - nurses, doctors, and physicians assistants - who are interested in joining this historic response to register at www.usaid.gov/ebola/volunteers. BPPTK Yogyakarta reported that 178 multi phase tremors, 3 shallow volcanic tremors and one tectonic tremor occurred on Monday (24 Apr.). We predicted snowfall in the end of November, and it is the beginning of the harsh weather now.""",0,0,0,0,0
+17461,"Increasingly, we are hearing reports of children below the age of five dying of hunger and exhaustion during the journey.",1,1,1,1,1
 17462,"The annual exodus of men from rural areas to the cities and over the border has become part of the survival pattern in Niger, one of the world's poorest countries, which is prey to encroaching deserts and unreliable harvests.",0,0,0,0,1
 17463,"Locally, in March we are conducting our largest annual fundraising event, Red Cross Calling, which raises funds to support vulnerable Australians, right here in our own communities. Without clothes or shoes, the thousands of men, women and children made destitute by the cyclone could only stand in the mud and rain of the latest tropical downpour, their hands clasped together in supplication at the occasional passing aid vehicle. Jacobabad received the heaviest downpour of 305mm (over 12 inches), while Sukkur, Thull, Kandhkot, Kashmore, Khanpur Mahar, Ghotki, Daharki, Mirpur Mathelo, Rohri, Ali Wahan and Shikarpur received five to 282 millimetres of rain. Mercy Corps needs your generous donation as its efforts in Pakistan continue and expand. (a) Due to the persistence of drought and the probable food deficit in the Northwest Pastoral and Southeast Pastoral sub-zones caused by abnormal rainfall during Karan/Karma (the main rainy season this year), the Minister of Interior launched a joint UN Agencies and Djibouti Government mission, following a meeting held on 25 October. Many people die of heat related illnesses in Pakistan every summer but this has been one of the worst years in memory. The manual revolutionized training for visiting nurses and was subsequently accredited and adopted by the Russian Federation to be included into the standard nursing curriculum. A huge undersea earthquake off the Aceh coast triggered the tsunami on Dec. 26. Authorities have warned that monsoonal rain will worsen in the next two weeks. The situation in Bangladesh is improving in the west of the country, and as the flood waters subside people are returning to their villages. Somalia has suffered two decades of conflict, worsening droughts and heavy flooding. If, as forecast, the heavy rain continues throughout September, the number of vulnerable children could rise into the hundreds of thousands. The oppressive heat, the blazing midday sun, the dust and the flies make it difficult for children to concentrate on learning and for teachers to teach. The powerful tremor killed dozens of people and injured more than 2,000. The variability of I-131 relatively to the radio-caesium concentrations could be an indication of retention of caesium by the zeolite sandbags in place, which would have almost no effect on iodine or further production of decay products in the reactor. Both the winter and spring rainfed wheat crop, harvested during June-July, has almost totally failed in most places as a result of drought. At a loss, she set up an online fundraising platform. New Oxfam report says retreating glaciers and more extreme weather like droughts and floods could dangerously erode food security, livelihoods and even regional stability by 2050. The heavy downpour brought down the maximum temperature by almost 4 degree Celsius. Geologists have said they expect an eruption of Kelut would comprise of heat clouds"", searing gases and volcanic debris rushing down the slopes, similar to the most recent eruption in 1990 that left 34 dead.",1,0,0,0,0
 17464,ZIMBABWE: No election boycott - MDC,0,0,0,0,0
@@ -13993,6 +13961,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 17894,"The Department of Agriculture also provided vaccination for blackleg and pasteurellosis, as well as treatment for internal and external parasites.",0,0,0,0,0
 17895,"His decree allowed the government to use troops to force evacuations, appropriate private buildings and vehicles, re-prioritise budgets and disregard all planning laws during reconstruction.",0,0,1,0,0
 17896,"In China,at 3pm their time today,an earthquake measuring 7.8 on the richter scale hit the Wenchuan county in SichuanProvince.",0,0,1,0,0
+17897,"GENEVA, Nov 7 (Reuters) - The United Nations and the global Red Cross/Red Crescent said on Monday urgent cash support from the outside world was vital to save thousands of lives as winter moves in on homeless survivors of the Pakistan earthquake.",0,1,1,1,0
 17898,"For residents of villages above 1,524 metres this is lifesaving equipment as many of their settlements will become cut off and inaccessible in the coming weeks as the winter snows arrive.",0,0,0,1,0
 17899,"Since December 2006, a series of cyclones, with accompanying heavy rainfall, has lashed several regions of the island nation.",0,0,0,0,0
 17900,The weather pattern will be happening very complicatedly.,0,0,0,0,0
@@ -14030,9 +13999,9 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 17935,"Nighttime temperatures in the winter months range from minus 10 to minus 50 (more exceptional) throughout Ghor, Parwan, Badakshan and Kapisa, with average temperatures of minus 10 to minus 15.",0,0,0,0,0
 17936,"Typhoon Kammuri, which hit the north of the country on 7 August, has caused widespread devastation in the provinces of Lao Cai, Yen Bai and Phu Tho.",0,1,0,0,0
 17937,"LISBON, Oct 21, 2005 (Xinhua via COMTEX) -- Portugal delivered its first batch of relief supplies from Lisbon Thursday to the earthquake-striken areas in Pakistan.",0,1,0,0,0
+17938,"But with deadly sub-zero temperatures now killing hundreds of people, many of them children, in Afghanistan, WFP officials said the U.S. aid will help save many lives among the battered population.",0,1,1,0,1
 17939,"A training programme for community staff on problem based learning, (psychosocial problems) and preparation of a curriculum for psychiatric nurse training is on going.",0,0,0,0,0
 17940,"Some areas also tried to make artificial rains, which proved to be of little help because of the lack of rain cloud.",0,0,0,0,0
-17941,Thailand: The Bureau of Epidemiology is investigating dengue hemorrhagic fever cases in Phuket following increased case reports.,0,1,0,0,1
 17942,The last African armyworm outbreak in West Africa occurred in Ghana in 2006.,0,1,0,0,0
 17943,"""I'm happy to be allowed to return home, but my house is still in a mess due to thick volcanic ash.",0,0,0,0,0
 17944,"When the flames licked through the rafters and ate their way into his bedroom, it was too late.",0,0,0,0,0
@@ -14150,6 +14119,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 18066,Levels of chronic malnutrition and anaemia continue to worsen.,0,1,0,0,0
 18067,"In Myanmar, since last month, areas surrounding the Sittwe district, Rakhine State, near the border with Bangladesh were caught in a severe storm, affecting more than 10,000 people including 14 dead and 15 missing.",0,1,1,1,1
 18068,"If the belg fails, these farmers are also forced to switch from long-cycle to short-cycle crops planted during the later rains.",0,0,0,0,0
+18069,"08/11/2014 05:47 GMT KIGALI, August 11, 2014 (AFP) - Rwanda has placed a German student with Ebola-like symptoms in isolation, and was waiting for test results checking for the deadly tropical disease, the health ministry said late Sunday.",0,1,0,0,0
 18071,"To overcome unevenness of their fields, farmers divide their fields into smaller plots.",1,0,0,0,0
 18072,"In Bihar, fresh areas were submerged by overflowing river waters affecting large stretches of railway track and roads, including the national highway.",0,0,0,0,0
 18073,The eruption on April 18th blew volcanic rocks which broke solar panels on roofs and car windows in Takaharu-cho.The matching grant was increased and fulfilled within weeks: an anonymous donor added tens of thousands of dollars to the original matching grant figure and hundreds of additional generous contributors helped Northwest Medical Teams reach its goal to match the grant figures.,0,0,0,0,0
@@ -14337,7 +14307,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 18268,"However, the road remains closed due to the fluid security situation.",0,0,0,0,0
 18269,"The authorities have promised to give a series of cash grants totalling around 175,000 rupees to individuals so they can rebuild their own homes.",0,0,0,0,0
 18270,"Then there was a powerful outburst, which resulted in a flash flood in the Seti river that entered human settlements and created havoc, he told AFP, adding some houses were covered with mud up to 12 feet (3.5 metres) deep.",0,0,0,1,0
-18271,"United States of America: Following a series of devastating tornados, the American Red Cross is providing shelter, food and emotional support across 12 of the southern states.",1,0,0,1,0
 18272,"This ""for-local-profit"" structure makes the program ultimately self-perpetuating, benefiting the veterinary technicians in proportion to how well they provide for their community.",0,0,0,0,0
 18273,"Several days earlier tropical storm Ketsana smashed into the Philippines, inundating most of the capital, Manila, with the heaviest rains in living memory.",0,0,0,0,0
 18274,It was the biggest aftershock felt in our area after the October 8 earthquake.,0,0,0,0,0
@@ -14575,6 +14544,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 18533,"Four times during flight I had diarrhea,"" a common and concerning sign of Ebola since it can lead to rapid dehydration.",0,0,0,0,0
 18534,"In Taipei, a city of 2.5 million people, firefighters battled blazes and construction cranes and fire ladders were used to rescue people trapped in the ruins of buildings.",0,0,1,0,0
 18535,"The concern centres especially on cities, and problems -- expected to persist when floodwaters recede -- with sewage, drainage and uncollected waste contributing to foul water and contaminated food.",1,0,0,0,0
+18536,"Further up the valley, towards the snowy peaks that mark the start of the Himalayas, there are tens of thousands of people who have received nothing.",0,0,0,0,0
 18537,"A flash flood, triggered by seasonal rain down poured Bogor, Depok and some area of Jakarta since Tuesday, 23 January 2007 and the overflow of Ciliwung and other Jakarta's small rivers, hit at least 5 sub-districts in Jakarta and Depok.",0,0,0,0,0
 18538,"The permanent secretary said the situation had been worsened by moisture stress, poor soil fertility and heavy infestation of pests such as thrips, aphids, leaf hoppers and stock borers.",0,0,0,0,0
 18539,"They also lack adequate medical equipment/supplies, syringes and needles, antibiotics, and other supplies.",0,1,0,0,0
@@ -14743,7 +14713,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 18727,It was believed to be the coldest temperature the country has seen since 1968.,0,0,0,0,0
 18728,Scores of residents of Katima Mulilo flocked to the Zambezi River on Saturday and Sunday to draw water during the crisis that was exacerbated by the scorching summer heat that has engulfed the region following the sudden dissapearance of the rains.,1,0,0,0,0
 18729,"If we are to prevent further damage to the monsoon rice crop and damage to the following dry season crops, we must continue the current preventative measures and emphasize an integrated pest-management approach for the coming winter season, he said.",0,0,0,0,0
-18730,"Three firefighting helicopters Ka-32 and one Mi-26 are ready to fight fires in Shaturskiy, Yegoryevskiy and Orekhovo-Zuevo Regions. Australia's representative welcomed that IAEA's Director General had quickly set up a task force to enhance response capacities to outbreaks of zoonotic diseases, including the Ebola virus. Meanwhile, in Jakarta, incessant rain and high tides inundated several subdistricts in North and West Jakarta, the Jakarta Regional Disaster Mitigation Agency (BPBD) spokesman, Bambang Surya Putra, said on Friday. In the epicentral region of this earthquake, the Australian plate moves northwestwards with respect to the Sunda Plate at a rate of approximately 65 mm/yr. The south and centre of Mozambique have been affected over the last few days by a cold front that has brought thundery showers, particularly in coastal areas. Those living within the mountain range will be more exposed to cold conditions with possible snowfall, while others further into the valley will experience milder temperatures. Northwestern Rajshahi suffered the lowest temperatures in Bangladesh, plunging to 3.4 degrees Celsius (38 Fahrenheit) January 22. Strong wind, hailstorm and rain hit several municipalities of eastern Georgian region of Kakheti late on Monday. The northern mountainous regions normally receive 25% of total snowfall in the months of December and January, whereas only a quarter of it was recorded in these months. In most of the country planning for cold weather preparedness seems to be concluding in positive coordination efforts on the part of the NGOs as well as the UN. Jeremy Hobbs, Commnity Aid Abroad-Oxfam Australia's Executive Director said: Australians are well aware of the effects of devastating floods.",0,1,0,0,0
 18731,"All informants pointed out that for more than 30 months neither the main gu rainy season in April/Mai/ June, nor the small deyr rainy season (October-December) have yielded any sizeable amount of water.",0,0,0,0,0
 18732,"Most years, floods wreak havoc in the state, leaving a trail of destruction and killing hundreds of people.",0,0,0,0,1
 18733,The No. 8 Northeast Gale or storm signal was issued at 5.55pm yesterday (September 14) and was replaced by Southeast gale and storm signal at 12.35am today (September 15).,0,0,0,0,0
@@ -14803,12 +14772,12 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 18792,"With the cooperation of First Hawaiian Bank, the Center immediately established the East-West Center Tsunami Relief Fund to distribute donations to non-profit organizations joining in tsunami relief efforts in the affected areas.",0,0,0,0,0
 18793,The force of the water broke the river's banks on reaching the lowland plains of Govuro district and caused widespread flooding as it met the resistance of the sea at its mouth.,0,0,0,0,0
 18794,The current frost and drought conditions in the highlands of PNG have been more prolonged than ever before.,0,0,0,0,0
-18795,"Although the drought has lasted several years in this region, monsoon failure is a common occurance in Kutch and most of the area has saline groundwater, leaving few parts of the province with usable drinking water.",1,0,0,0,0
 18796,"This is the second time in four months that Tanzania was caught napping by disasters after more than 200 people died in September after a ferry sunk off the coast of Nungwi village, leaving Tanzania battling its worst maritime disaster in 15 years.",0,0,0,0,1
 18797,"The Partnership moves way beyond the traditional approach taken by the Red Cross to post disaster reconstruction programmes, explains Al Panico, the International Federation's head of delegation in Sri Lanka.",0,0,0,0,0
 18798,"Livestock, crops, rural and urban housing, roads, river and canal embankments, and other infrastructure suffered extensive damage, as vast areas of land were submerged.",0,0,0,0,0
 18799,"The technical evidence obtained from remote-sensing (e.g. satellite photography) and other sources shows that flooding of the scale in Spring 2007 is very unlikely, because this is a function of the thickness of the snowpack, the suddenness of the rise in temperature, and often also rain which speeds up the melting and run-off process.",0,0,0,0,0
 18800,"Having completed 10,000 transitional shelters in more than 200 villages in Aceh and Nias Island, and with 10,000 more in various stages of completion, the Red Cross Red Crescent is stepping up its community outreach programme to reinforce the initiative of outstanding beneficiaries like Darnita.",0,0,0,1,0
+18801,"According to the WHO, cholera, spread by contaminated water and food, is an acute intestinal infection caused by the bacterium vibrio cholera.",1,0,0,0,0
 18802,"It was the culmination of several years of decreasing vaccination coverage due to rising insecurity, decreased access, difficult terrain and harsh winters that cut off thousands of villages.",0,0,0,0,0
 18803,It was with sadness that UNHCR learned yesterday of the drownings of some 47 Ethiopians in a boat capsizing incident on Lake Malawi.,0,0,1,0,1
 18804,"We are the world's breadbasket, with the mightiest farmers.",0,0,0,0,0
@@ -14893,7 +14862,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 18895,This aftershock and the corresponding March 25th mainshock are the result of geologic processes that have been active for millions of years; their occurrence is independent of the recent bombing in Afghanistan.,0,0,0,0,0
 18896,"The report also argues the need for more a more balanced approach to understanding the link between migration and climate change, a complex subject often viewed through the prism of forced displacement from extreme climatic events and which overlooks the more ""solution"" role migration can play in adapting to a new climate reality.",0,0,0,0,0
 18897,- Mental health and psychosocial care for children affected by natural diasters [pdf 359kb],0,1,0,0,0
-18898,"Our emergency programs in water and sanitation, health, and nutrition will help earthquake victims on many levels, but with winter conditions developing, we're facing severe shortages in key areas and need your help with any of the following:",1,1,1,0,0
 18899,Contributions have been directed to major non-governmental organizations with registered charitable status.,0,0,0,0,0
 18900,"Typical of oil spills, re-pollution remains a possibility, as oil trapped in crevasses, possibly unreachable during the clean up, may be re-floated and land on beaches.",0,0,0,0,0
 18901,"The north, west and several other parts of the country are experiencing severe food insecurity due to erratic rains and a poor harvest in 2011.",1,0,0,0,0
@@ -14971,7 +14939,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 18983,"KIFFA, 21 September (IRIN) - In the deep south of Mauritania swarms of locusts appear on the horizon like dark menacing sand storms and then arrive to swirl around the countryside like blizzards of thick yellow snowflakes.",0,0,0,0,0
 18984,"In January of this year, arsonists targeted the Ministry of Justice, destroying key files used in the investigations.",0,0,1,0,0
 18985,"In Cyclone Sidr's aftermath, relief must reach hundreds of thousands of survivors to help them fight back the looming threats of starvation, disease and winter chill.",1,1,0,1,0
-18986,"In December the KRCS launched a floods appeal that was set to support 563,000 affected people for four months.",1,1,0,1,0
 18987,"The Afars traditionally come to Antsokia only in the acutest drought periods - even then, they arrive in the driest months of June and July.",0,0,0,0,0
 18988,"Meanwhile, in the southern Yunnan province, two weeks of constant intense rainfalls in early August inundated large areas of the Nujiang River Basin.",0,0,0,0,0
 18989,He noted that this is a testing time for Liberians and the international community as they work more closely to attain victory over these destructive pests.,0,0,0,0,0
@@ -15042,7 +15009,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 19061,"Yet, despite the two major earthquakes that were among the strongest ever recorded, none of the 11 countries affected by the tsunamis have completed an effective warning system and few are ready to cope with subsequent disasters.",0,0,0,0,0
 19063,"But with nearly 200,000 people living in and around the town before the tsunamis struck, there are expectations the death toll in the region will climb dramatically as rescue workers and assessment teams reach isolated areas.",0,0,0,0,1
 19064,"The Government of Indonesia is already stretched from various natural disasters, including the imminent eruption of Mt Merapi, and has limited resources to respond to this emergency. In May we told you about efforts to stem sunn pest outbreaks in Faryab - an insect that can cause losses of 20-70 percent in wheat crops with damage reaching 100 percent in the absence of control measures. FAO warned that other Red Sea and Gulf of Aden countries could face important infestations of the cropdevouring insects this winter due to unusually good rains and favorable ecological conditions. Much of Manado's essential infrastructure  -  roads, bridges and drainages  -  have been severely damaged. Of these 301 were rescued by the Norwegian cargo vessel, the Tampa, after their boat sank, and the other 228 were taken from the Indonesian vessel, the Aceng, which was subequently intercepted by the Australian navy. Most parts of India have recorded above normal monsoon rainfall from 1 June to 1 August 2001 (26 out of 35 meteorological sub-divisions covering 75 % of the districts and 83 % area of the country received normal to excess rainfall). The torrential downpour which has been pounding the Indonesian island of Sumatra since last week is having dire consequences. Massive flooding occurring in Kenya has affected up to 70,000 people after torrential rains lashed many parts of the country, leaving behind a trail of destruction. Alarm Level II Dangerous flood condition - Flood plane inundation expected; towns and cities still generally protected by flood defences; high velocity River flows pose danger of bank and dyke erosion; bridge foundations at risk from scour; infrastructure generally safe. Conversely, the virtual absence of rainfall combined with abnormally high temperatures in most of southern Mozambique during the 2006/07 season may result in poor local harvests, especially for maize. Stress and labour migration continued well into 1999 because early warning mechanisms failed to predict and react timely to the disaster situation and furthermore, another belg rain failure in 1999 further aggravated the food security situation See Guinand, 1999b and Hammond, 1999b. Bangladesh, which borders India and is home to 150 million people, has repeatedly born the brunt of devastating and deadly storms in the past. The area that was hit on the northeast coast is the main cash crop-producing area with coffee, cloves and vanilla bean,"" he says.",0,1,0,0,0
-19065,"In several countries, these national forest programmes have been implemented with the support of the international donor community, UNDP, Global Environment Facility (GEF) mobilizing financial national and external resources for programmes and projects relevant to the CCD such as forest resources conservation and management, agro-forestry, watershed management, reforestation and a forestation, community forestry, extension and public awareness.",0,0,0,0,0
 19066,Key expressways were closed in the disaster-hit areas and severe traffic jams took place on some national trunkline highways and provincial trunklines.,0,0,0,0,0
 19067,Most of these movements were associated with the strong southerly winds on 18-19 February.,0,0,0,0,0
 19068,"Before making landfall in neighbouring Bangladesh on July 30, Cyclone Komen had swept past western Myanmar, causing high winds and heavy rains throughout the country and increasing the severity of the seasonal downpours.",0,0,0,0,0
@@ -15822,6 +15788,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 19940,"The flooding, described as the heaviest in 30 years, has affected more than 25 million people and killed at least 1,450 others in Bangladesh, India and Nepal since monsoon rains began pouring down in June.",0,0,0,0,1
 19942,Emphasis on the importance of and knowledge regarding reducing risks to disasters will occur when the MKRC visits these communities in early 2012.,0,1,0,0,0
 19943,"The earthquake in Pakistan will be the theme of an all-star fundraising gala, with pledges going to German Agro Action.",0,0,0,0,0
+19944,* The worsening security situation in Darfur/Sudan adversely affects WFP's operations.,0,0,1,0,0
 19945,"After the 3 June earthquake in Yunnan Province, Amity development workers went to Ning'er County in order to provide disaster relief, assist people in the area and help with the rebuilding of destroyed homes.",0,1,0,0,0
 19946,"The number of Afghans heading home this year may be more modest than in 2002, but having tested the water, UNHCR is standing ready to help anyone who wishes to go back to Afghanistan.",0,0,0,0,0
 19947,"There are six SCMM congregations on Nias Island and each congregational community administers health care, education, boarding houses, orphanages, and some maintain nursing homes for the elderly.",0,0,0,0,0
@@ -15895,11 +15862,11 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 20024,"DUSHANBE -- Mud slides and floods caused by rains and melting glaciers destroyed almost 60 houses, trade and cultural facilities, electricity lines, and an irrigation system in Tajikistan's eastern region of Gorno-Badakhshan over the last few days.",0,0,0,0,0
 20025,"New research says there are signs the entire area, of 640 hectares (1,580 acres) of Javanese countryside, is sinking and forming a huge crater.",0,0,0,0,0
 20026,"For most, this is the third consecutive year of poor harvest.",0,0,0,0,0
-20027,"An appeal of CHF 3,056,180 was launched on 25 January to provide urgently needed food, quilts and fuel supplies to help 60,000 of the most vulnerable herders survive the harshest winter for 50 years.",1,0,0,1,0
 20028,"Northern Afghanistan continues to be susceptible to recurring natural disasters, where seasonal rains and spring snow melt regularly result in life-threatening flash floods and landslides.",0,0,0,0,0
 20029,"BEIJING, October 21 (AFP) - China is expecting a bumper corn harvest this year, having been spared the brunt of devastating flooding and with further declines in corn prices expected, the official media reported Wednesday.Higher temperatures also can fuel stronger storms.",1,0,0,0,0
 20030,"The fever takes a very serious, sudden and massive form affecting all species of cattle of any age, is transmitted through insect bites.",0,0,0,0,0
 20031,"International Relief and Development (IRD) is a Virginia-based non-profit corporation with a demonstrated capability in providing rapid response assistance to people in disaster-affected countries in the areas of water and sanitation, malaria, infectious disease, reproductive health, nutrition, community-based primary health care, and health education and promotion.",0,0,0,0,0
+20034,"Weather conditions improved across the island Saturday, but the meteorological bureau in Colombo said there was a possibility of further rains.",0,0,0,0,0
 20036,"SILVER SPRING, Md - The Adventist Development and Relief Agency (ADRA) is distributing food aid to communities in southern Ghana after torrential rains caused widespread flooding that destroyed homes, communities, roads, and bridges.",1,0,0,0,0
 20037,"Chanchu, the strongest tropical storm ever recorded in month of May, is moving northeast and is expected to pass through the middle and southern areas of Zhejiang Province before arriving in the East China Sea on Thursday evening, the Zhejiang Provincial Observatory forecast earlier the day.",0,0,0,0,0
 20038,"In early September, the Doctors Without Borders/Médecins Sans Frontières (MSF) team working in the eastern reaches of Pakistan's Balochistan province expanded their existing services to include basic health care for people affected by heavy monsoon rains lashing the area.",0,1,0,0,0
@@ -16668,10 +16635,10 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 20887,"We lack good quality seed, and termites eat our plants.""",1,0,0,0,0
 20888,"Reservation for the freed Kamaiyas in the areas of higher education, overseas employment.",0,0,0,0,0
 20889,Their villages and farms on the frontline of the Afghan civil war were pillaged and destroyed by the Taliban and much of the once fertile and prosperous Shomali plain reduced to a barren wasteland.,0,0,1,0,0
+20890,"But experts say the insurgents remain capable of hit-and-run strikes, and may increasingly target soft civilian targets, despite being weakened by the military offensive.",0,0,1,0,1
 20891,Landslides formed two barrier lakes in Fengjie County.,0,0,0,0,0
 20892,"In an effort to confront the terror groups, government requested the public to cooperate with the law enforcement agencies and tip them with information to foil terror plots.",0,0,1,0,0
 20893,IMD has forecast a mainly cloudy sky with a few spells of rain/thundershowers for the next 24 hours.,0,0,0,0,0
-20894,Save the Children continues to distribute non-food items to peolpe affected by the flood in northern Inhambane province and to re-unite separated chidren with their parents and families.,0,0,1,0,1
 20895,"This clinic is maintained and staffed by the Jamaican government and supported by regular, coordinated visits by volunteer dentists and hygienists from the United States.",0,0,0,0,0
 20896,The first project will construct a primary care clinic in the city of Santiago de Maria in El Salvador.,0,0,0,0,0
 20897,"Nothing is left of her family house and she now sleeps in a tent in a small camp overlooking Balakot's once clear river, now a deep, muddy red.",0,0,0,1,0
@@ -16696,6 +16663,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 20918,The rehabilitation of the water supply systems was recommended through increasing the number of water taps; installing taps in emergency and intensive care units; gynaecology wards and improving and upgrading washing points for patients in hospitals and clinics.,1,1,0,0,0
 20919,Authorities are now assessing damage and assisting the locals.,0,0,0,0,0
 20920,Simple things that can contribute to preventing diseases from spreading among the camp's inhabitants who are already suffering a hard enough fate.,0,1,0,0,0
+20921,"HELP is an independent non-profit organisation, which was founded in 1981 due to the war in Afghanistan.",0,0,1,0,0
 20922,"Maputo - Meteorologists in southern Africa fear that, despite predictions of normal rainfall in the forthcoming rainy season, areas hit by floods early in the year may suffer again because the soils remain waterlogged, reports Monday's issue of the daily paper, Noticias.",0,0,0,0,0
 20924,"Source: China Meteorological News Press Today, after the morning weather consultation, China Meteorological Administration (CMA) conveyed the requirements of Premier Wen Jiabao on the recent disasters in Sichuan, Shaanxi, Henan and Tibet.",0,0,0,0,0
 20925,"The workshop was organised by the government of Orissa, the state disaster mitigation authority, the United Nations and the information and public relations department.",0,0,0,0,0
@@ -16722,7 +16690,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 20952,"OCHA sponsors an annual regional contingency planning session in Nairobi, with a semi-annual review session.",0,0,0,0,0
 20953,Nigeria's election commission says it plans to distribute voter cards to displaced people and set up polling centers near their camps.,0,0,0,0,0
 20954,But the sheer volume of water and seasonal high tides has already resulted in some flooding and the forced evacuation of some districts in the densely populated city of 12 million.,0,0,0,1,1
-20955,"The fuel-efficient stoves also lower health risks by reducing unhealthy smoke and particle emissions, and reduces cooking times as the heat is concentrated.",0,0,0,0,0
 20956,"JAKARTA, June 10 (Reuters) - Southeast Asian nations are battling a surge in dengue cases, amid signs that climate change could make 2007 the worst year on record for a disease that often gets less attention than some higher-profile health risks.",0,1,1,0,0
 20957,The rainy and stormy season in 2010 is forecasted to develop in a very complicated manner.,0,0,0,0,0
 20958,"After years of drought in the province, farmers had been planting crops in dry river beds and stream gulleys where they often set up makeshift homes, prompting further fears of a greater death toll, officials said.",0,0,0,0,0
@@ -16737,6 +16704,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 20969,"We are getting bad floods, landslides, storms and frequent lightning bolts therefore, need to have disasters officers in these areas in case disaster strikes, Ecweru told World Bank representatives, disaster specialists, MPs resident district commissioners and disaster management officers.",0,0,0,0,0
 20970,"Vietnam's Red River Delta region is vulnerable to river flooding, tidal effects and storm surges from tropical systems moving across the South China Sea.",0,0,0,0,0
 20971,The inundation and landslides was caused by recurrent torrential downpours in the district in the past few days as the local Sirsha river had swamped different parts of Sirsha village.,0,0,0,0,0
+20972,"In flooded northeastern Assam state, another two people drowned overnight when their boats capsized in separate places while trying to escape floodwaters, police said.",0,0,0,0,1
 20973,"Just last month, the area next to the site was barren land.",0,0,0,0,0
 20974,All terrain vehicles are useless in the muddy conditions and the last convoy took three and a half days to cover the three hour journey.,0,0,0,0,0
 20976,"The team will be assessing the overall situation including environmental, institutional, legal and capacity implications and will be helping the government of Madagascar to develop a prevention programme and response plan for chemical and industrial accidents.",0,0,0,0,0
@@ -16744,7 +16712,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 20978,On 8 April the only data reported concerned the 15 km offshore north-south transect.,0,0,0,0,0
 20980,"He said the distribution of voter cards had begun, and there was a ""craze"" among Malians for the elections.",0,0,0,0,0
 20981,The front of the upper-air trough continually generated strong convective clouds.,0,0,0,0,0
-20982,"Most of the deaths were caused by the tidal wave which engulfed coastal villages, or by flying debris and falling trees that crushed flimsy bamboo and tin homes -- the best that most people in the country can afford.",0,0,0,0,1
 20983,"In northeast Morocco, small infestations of second and third instar hoppers are present near Oujda where ground operations have treated 30 ha in May.",0,0,0,0,0
 20984,"Our project co-ordinator is working with IHE to develop non-medical and educational activities, encouraging sustainable projects (water, sanitation and agriculture) and developing outreach projects in the vicinity of Boma.",0,0,0,0,0
 20986,"The embankment developed cracks and seepages at many points, and hundreds of troops and volunteers had worked day-and-night to repair them, officials and witnesses said.",0,0,0,0,0
@@ -16767,6 +16734,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 21005,"Sterilization of instruments, lighting for operations and heating of hospitals during the harsh winter season remains severe problems.",0,1,0,0,0
 21007,"The country has also been experiencing extreme temperatures for the past few weeks , with the highest temperature recorded during the heat wave at 52 degrees Celsius (125.6 Fahrenheit).",0,0,0,0,0
 21008,"These communities are in areas experiencing chronic food insecurity, environmental problems and a general lack of basic services. Therefore, training and retraining of the local counterparts leaders of groups and villages as well as the local staff at grassroots level is essential for sustainable implementation of the activities of the NGOs. It's a replica of an Ebola treatment unit (ETU), where doctors, nurses, hygienists, and others learn how to safely care for Ebola patients while staying alive. Logistics: A total of two access routes across hardened lava flows in the city of Goma have been opened by Agro Action Allemande (AAA), with funding from ECHO (OCHA Situation Report No.8 paragraph 6 refers). Samson Jeyakumar, World Vision's child protection specialist, said: Thousands of children are emotionally vulnerable and may be at risk of psychological trauma after witnessing unimaginable horrors such as losing loved ones and having to flee their homes.The initiative, aimed at drastically reducing the amount of time it takes to respond, awards grants of up to $10,000 to partner organizations in countries susceptible to natural disasters.",0,0,0,0,0
+21009,"Throughout the earthquake-stricken region, families are still sleeping out in the open, too concerned about aftershocks to return to their cracked and damaged homes in case another jolt should bring the thick mud walls and wooden roof beams crashing down.",0,0,0,1,0
 21010,"Meanwhile, the latest weather bulletin of the Met office said, the cyclonic storm over West Bengal and adjoining Bangladesh moved northwards and weakened into a land depression.",0,0,0,0,0
 21011,"These have warned that diphtheria, cholera and malaria could spread in an epidemic of ""apocalyptic proportions"" if medical, food, water and other types of aid are not allowed in, along with trained personnel to administer the support.",1,1,0,0,0
 21012,"It is likely to INTENSIFY further, move in A north-northeasterly direction and may cross Cox's bazar-Myanmar coast, south of Teknaf by afternoon/evening today.",0,0,0,0,0
@@ -16916,7 +16884,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 21176,"Based on the Rapid Appraisal, Save the Children recommended that donors and international organizations assist the rural sector toward a sustainable recovery path while protecting the most vulnerable part of society and the environment.",0,0,0,0,0
 21177,"Air Serv International, a non-profit organization, is requesting donations for its tsunami assistance projects.",0,0,0,0,0
 21178,"Hundreds of Myanmar Red Cross volunteers are contributing to the cleanup, which has already led to more freely flowing traffic, though everywhere one looks there are roofs torn off buildings, trees down, advertising hoardings twisted into bizarre shapes and lamp-posts smashed like matchsticks.",0,0,0,0,0
-21179,"The gunmen arrived around 7:30 pm (1830 GMT), firing guns and shouting 'Allahu Akbar!'. Fartun notes, ""I am grateful to International Medical Corps that I received the personal hygiene items for free which will enable me and my family to have good personal hygiene."". Now the few water tanks used to collect rainwater have been destroyed. The cross-border movement of the human remains of deceased suspect, probable or confirmed EVD cases should be prohibited unless specifically authorized on a case-by-case basis by relevant national authorities of both the exporting and receiving country. Flooding is an annual occurrence in Thailand, most of which lies in the drainage basin of the Chao Phraya River flowing from the confluence of the Ping and Nan rivers in the north. With the Ministry of Rural Rehabilitation and Development as the major counterpart, the WES programme aims, to construct or rehabilitate handpumps, dug wells, boreholes, latrines, piped water systems, and sanitation systems. International aid agencies on the ground hope this will go towards constructing wells and latrines to deal with the underlying causes of the outbreak. Across the board, households are spending a higher proportion of their limited incomes on their food needs; they are consuming smaller quantities, less frequently; and they are eating cheaper and in many (but by no means all) cases, less nutritious foods. The assets and logistical capability provided by military forces after the tsunami were essential in ensuring humanitarian supplies were delivered swiftly. Other specialists are working to clean up polluted wells in the Meulaboh region. Sukamto said the haze could lead to lung infections and pneumonia that sometimes can become fatal. The Southern part of Madagascar is subject to cyclical drought. As well, just this morning, Pepsico hosted a breakfast symposium on undernutrition with leading experts from the Gates Foundation, Save the Children, GAIN and Valid International, all sitting along side Pepsi reseachers and discussing new approaches to address global child undernutrition. His appeal to donors making generous pledges was for them to earmark the monies, such as to the regional component, or to Indonesia, Somalia and so forth. In addition, a secondary school for 132 pupils, a post office, club, library, medical center, substation have been built. A massive rescue operation is under way,"" Dass added, as hundreds of paramilitary troopers were rushed to the disaster site in Sumgarh town, some 450 kilometres (279 miles) from state capital of Dehradun.",1,1,0,1,1
 21180,"Oxfam has to date constructed 180 temporary shelters in the Cuddalore District, with 31 bathing units, 5 latrines and 9 hand pumps completed for the same area.",0,0,0,1,0
 21183,"The NFI kits containing blankets, kitchenware, jerry cans, a bucket, and soap, were mostly distributed by local ANDMA staff with monitoring provided by IOM.",0,0,0,0,0
 21184,The Emergency Telecommunications Cluster (ETC) has continued to install telecommunication equipment to support the humanitarian response in flood-affected locations.,0,0,0,0,0
@@ -17029,7 +16996,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 21299,"It therefore urged the ECOWAS Commission to continue on-going discussions with the African Union and the UN on the selection of the command of the force for which the UN is believed to have approached 11 countries to nominate candidates to head the force, including from outside the region.",0,0,0,0,0
 21300,"Zucula said the government was working on a long-term plan to permanently resettle refugees from flood-hit areas, many of whom have been forced from their homes several times in recent years due to flooding.",0,0,0,1,1
 21301,"Kushwaha told Deutsche Presse-Agentur dpa in a telephone interview that while Japanese encephalitis is a mosquito-borne viral disease, Coxsackie virus is transmitted through contaminated water or food.",0,0,0,0,0
-21302,The distribution of the grants include: US $24.5 million for the resettlement of those families and communities made homeless as a result of the floods; US $120 million for rebuilding roads and bridges and rehabilitating railway systems and air transport facilities; US $63 million for the agricultural sector to provide new tools and livestock as well as for loan schemes for small-scale farmers reliant on farming.,0,0,0,0,0
 21303,"Given the priorities set by the new President, we envisage this will go towards better governance, increasing the capacity of government institutions, building links between our parliaments, helping resolve constitutional issues, continuing to sponsor the discussions between Somalia and Somaliland that began in the UK in June, giving support on security and justice, and developing a free media.",0,0,0,0,0
 21304,"There were now meetings in Abuja, but most of their attention seemed to be in attacking each other and attacking civilians in Darfur.",0,0,1,0,0
 21305,"Countries like Tanzania are starting to realize that their immigration laws are not adequate to deal with the phenomenon of ""mixed migration"" whereby refugees, asylum-seekers, economic migrants and even victims of human trafficking may be using the same routes, means of transport and smuggling networks to reach a shared destination, but are driven by different motives and have different claims to protection and humanitarian assistance.",0,0,0,0,1
@@ -17447,6 +17413,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 21769,"He said the troops sent to quell disturbances at the time had gone ""beyond limits"" by killing innocent civilians: ""We had had a quarrel, a difference, and engaged ourselves in what I should now call a reckless, unprincipled fight within ourselves.",0,0,1,0,1
 21770,"With Western naval ships loaded with aid waiting at their door, and visiting UN diplomats demanding faster rescue and relief, Burma (Myanmar) agreed to accept more foreign aid from its neighbors at Monday's emergency meeting of the Association of South East Asian Nations (ASEAN).",0,0,0,0,0
 21771,"About a 100 feet to its left, a tower is cleaved in half, as if some great power brought down a gigantic axe on it.",0,0,0,0,0
+21772,"Unidentified gunmen attacked a police post in Loki village, Seram island, and killed seven people, including five officers from the Mobile Brigade paramilitary unit and one of the attackers.",0,0,1,0,1
 21774,"While relief efforts continue to assist avalanche survivors, snowbound villages throughout the province also desperately need health care and nutrition as their food supplies run low and as increased cases of pneumonia and other illnesses ravage the population.",0,1,0,0,1
 21775,"NAIROBI, 31 May 2012 (IRIN) - Maize lethal necrosis (MLN), a disease which has affected at least 300,000 maize farmers mainly in Kenya's Rift Valley Province, could adversely affect harvests of the staple nationally if it is allowed to spread, warn experts.",1,0,0,0,0
 21776,"Tractors and Oxen: The use of tractors continues to increase, allowing ever larger areas, particularly of dryland wheat, to be cultivated in the East, Southeast, Southwest and West regions.",0,0,0,0,0
@@ -17890,6 +17857,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 22259,"Despite the miraculous rescue of two people from the rubble of one town on Sunday, the main search effort along Japan's northeastern coast switched its focus from survivors to bodies days ago.",0,0,1,0,1
 22260,"Invented by our partner Boundless Horizons, the SG1 is a solar powered mobile germination factory capable of producing vast numbers of seedlings for a wide variety of crops, far faster than traditional farming methods.",0,0,0,0,0
 22261,October 1: President Bashir has ordered the release of opposition leaders on trial for plotting an alleged US-backed uprising.,1,1,0,0,0
+22263,"""That's why, over the last three months, our partners have been working around the clock to support communities that are likely to be cut off, making sure they have shelter during the monsoon, as well as hygiene kits containing soap and water purification tablets, which are crucial for preventing the spread of disease.",0,1,0,1,0
 22265,"IOM in cooperation with the Indonesian Ministry of Health and the NGO Mentor Initiative, which works exclusively on malaria prevention and control, collaborated on the development of an educational programme for malaria and dengue virus infections to be presented to NGOs and Indonesian medical staff working in Hospitals and Health centers in anticipation of increased malaria/dengue prevention and control activities.",0,1,0,0,0
 22266,In the a nearby industrial city of Harbin around 400 soldiers were observed near the town centre working feverishly with heavy earthmoving equipment in an attempt to plug a dike.,0,0,1,0,0
 22267,"Keita, prime minister from 1994 to 2000 and president of the National Assembly for five years from 2002, was one of several of the high-profile presidential hopefuls to hold news conferences or rallies announcing their candidatures in front of thousands of backers, in his case in Bamako.",0,0,0,0,0
@@ -17909,6 +17877,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 22281,"""The need for meaningful, sustainable employment, especially for youth, is a critical issue in Nigeria.",0,0,0,0,0
 22282,"Government sources however noted that domestic intelligence and security arrangements, in the capital and elsewhere in the Burkina Faso, had been considerably strengthened since January 2013, and consider the threat of an externally planned terrorist attack is currently well-contained.",0,0,0,0,0
 22283,"World Vision is rebuilding and rehabilitating roads to enable access to main routes and local markets, water-supply systems, schools, clinics and dispensaries, market places, community meeting places, local granaries and small food processing facilities, local fishing ports, family housing, temporary shelters, warehousing, distribution facilities, local business infrastructure, transportation and communication channels.",1,1,0,1,0
+22284,"Items in the locally procured repair kits, which will be stockpiled in forward bases at Muzaffarabad and Batagram, include zinc sheet roofing, plastic ground sheets, hammers, nails, spades, pickaxes, hand axes, saws, wire, buckets, and other items essential for salvaging the remains of houses and rebuilding habitable shelters.",0,0,0,1,0
 22285,Oxfam Hong Kong is closely monitoring developments in Zhouqu and planning our response in terms of relief and rehabilitation.,0,0,0,0,0
 22286,"This week, insurgents launched a series of attacks on the city of Gao, firing mortars into the town and setting off explosions on two bridges.",0,0,1,0,0
 22288,Violence is especially on the increase in Andhra Pradesh due to fighting between government security forces and leftist groups.,0,0,1,0,0
@@ -18129,7 +18098,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 22529,Humanitarian activities carried out in the north and north-east are proven to be difficult due to a lack of confidence which is yet to be fully restored between the LTTE and the government on one hand and on the other difficulty in working freely and directly with the population in the unoccupied area.,0,0,0,0,0
 22530,"In order to eliminate the threat of accidental civilian injuries from unexploded shells following the exercises, they would be limited to small-arms fire, and no ""explosive ordnance"" would be used, the US embassy statement said.",0,0,0,0,0
 22531,"We identified areas where there is room for improvement, including coordination and communication between our respective intergovernmental bodies and secretariats.",0,0,0,0,0
-22532,Police and military officials are going door-to-door to enforce a mandatory evacuation order.,0,0,1,0,0
 22533,"CHF 100,000 have been made available to purchase emergancy aid items where possible directly in Sumatra.",0,1,0,0,0
 22534,Angolan opposition parties have denounced President Jose Eduardo dos Santos for delaying elections originally scheduled for this year to the second half of 2002.,0,0,0,0,0
 22535,"As well as delivering emergency water supplies, Oxfam built a piped municipal water supply system in Lhokseumawe to serve 10,000 people and constructed or repaired more than 50 gravity flow water supply systems serving 170 villages.",1,0,0,0,0
@@ -18196,7 +18164,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 22601,"We will not charge expenses we already anticipated (such as the salaries of existing staff members) or administrative expenses against tsunami funds, and if urgent healthcare-related needs exist other than those our organization has expertise in providing, we will direct the funds to the best organization to address those needs.",0,0,0,0,0
 22602,The operation was conducted amid published reports that LTTE suicide cadres were targeting top political figures in the capital.,0,0,0,0,0
 22603,Dead bodies of people and animals and faecal matter are found floating in the water.,0,0,0,0,0
-22604,"The power supply has been affected in 6531 villages, 57 Towns, while 2343 electricity feeder and 1166 electricity distribution transformers has been disrupted.",1,0,0,0,0
 22605,"The recovery phase from mid-October is also likely to include a focus on agricultural rehabilitation, livelihood recovery, loan and credit facilities schemes to support small businesses, desalination of land and other mechanisms to address saline intrusion on productive land, distribution of seeds, seedlings and agricultural tools, boats and nets for the fishery sector, replacement livestock and livestock fodder and health treatment for surviving animals.",0,0,0,0,0
 22606,"Activity 4: To provide 10,000 beneficiaries with hygiene packs including towels and basic hygiene items, to improve hygiene conditions in temporary accommodations and prevent the spread of disease.",0,1,0,0,0
 22607,"* 179 people were killed (40 in Guntur, 24 in Khammam, 21 in Hyderabad, 18 in Warangal and 76 in the other 14 districts); * 252,000 people are homeless; * 53,599 houses damaged; * 12,241 kilometres of road network damaged; * 2,436 minor irrigation tanks breached, restoration work is in progress; * 1,147 power transformers damaged.",0,0,0,1,1
@@ -18248,6 +18215,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 22660,A joint UNEP/OCHA Environmental Risk Identification team is assessing the potential secondary risks posed by large infrastructure and industrial facilities containing hazardous materials.,0,0,0,0,0
 22661,But the speedy return of displaced people to homes where broken sewage pipes have been leaking into floodwaters means conditions are ideal for a dramatic increase in cholera.,0,0,1,0,1
 22662,"The CCMC is headed by a controller supported by a deputy controller, an experienced storeman, a relief officer, a medical co-ordinator, an office assistant and seven Red Cross youth volunteer leaders.",0,0,0,0,0
+22663,"Because the country is so crowded, others find shelter in unexpected places, like abandoned buildings or even cowsheds.",0,1,0,1,0
 22664,The civic infrastructure in the region has been damaged badly.,0,0,0,0,0
 22665,"A large team of 1,000 Indian naval personnel are already in two locations of the island carrying out relief work and treating thousands of survivors.",0,1,1,0,0
 22666,"The Norwegian Humanitarian Enterprise supported financially a visit of a group of specialists from the Ganja Institute of Agriculture to Sabirabad, Salyan and Neftchala to assess damage caused to the agricultural sector and develop recommendations for assistance.",0,0,0,0,0
@@ -18353,8 +18321,8 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 22774,Vaccination of pregnant women and patients with chronic lung diseases will also be conducted in outpatient clinics.,0,0,0,0,0
 22775,Respect for applicable law was at the core of sound counterterrorism policy.,0,0,0,0,0
 22776,Potential increased morbidity and mortality during outbreaks due to the decreased capacity for hospitalization: the infectious diseases ward is not functional due to the floods damages.,0,1,0,0,1
+22777,"The United Nations says more than 60,000 people have been killed in the conflict, which began as an anti-regime uprising but deteriorated into civil war when Assad's forces used violence to put down protests.",0,0,1,0,1
 22778,"""This shocking new evidence is further proof of the appalling crimes being committed with abandon by all sides in the conflict.",0,0,1,0,0
-22779,"Thousands of families have been forced to flee their homes and have taken refuge atop crumbling earthen dikes, which are also in danger of collapse.",0,0,0,1,1
 22780,"According to UNHCR, around 1,000 IDPs have returned to Chechnya during this period; they were dislocated in different temporary accommodation centers in Grozny.",0,0,0,1,0
 22781,The hospital staff began to prepare for a possible mass casualty situation.,0,0,0,0,0
 22782,"On 22 January, Kismayo airport militia forced an UNCAS Flight to pay a landing fee of US $100, contravening an earlier agreement between UN Agencies and local authorities in which security of operations and exemption of landing fees from relief flights had been guaranteed.",0,0,0,0,0
@@ -18532,6 +18500,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 22973,"New York - With support from the United Nations Development Programme (UNDP) and the Global Environment Facility (GEF), Sierra Leone has begun to use new, environmentally-friendly sterilizing equipment to help dispose of the vast amounts of contaminated protective equipment and infectious waste generated in treating Ebola patients.",0,1,0,0,0
 22974,Increased migration to less affected areas and increased numbers of livestock and herding households also resulted in congestion on seasonal pastures (e.g. grazing areas that are normally preserved for winter/spring were used during the fall).,0,0,0,1,0
 22975,Six Pakistani military personnel died when their chopper crashed Saturday near the Kashmiri town of Bagh.,0,0,0,0,0
+22976,The hygiene and health situation in Yida remain of serious concern and humanitarian partners are deploying teams around the camp to disseminate hygiene and health messages and identify cases for immediate medical attention.,0,1,0,0,0
 22977,"While significant quantities of relief materials are now arriving in the region as the Red Cross Red Crescent build-up continues for a refugee exodus into neighbouring countries there is also a need for money to support the necessary infrastructure and local purchases such as a stock of 5,000 family size winter tents in Iran for shipment to Pakistan.",0,0,0,0,1
 22978,"In perhaps the most volatile incident yet, a group of about 100 people including grieving parents were forcibly dispersed on Tuesday after staging a demonstration in Dujiangyan, Zhou and other residents told AFP.",0,0,0,0,0
 22979,"The port city of Beira alone has reported over 1,200 ""official"" cases of acute diarrheal disease.",0,1,0,0,0
@@ -19315,7 +19284,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 23854,"After the complete blackout in the township, several drinking water sources, including Sivajinagar, Duranalah and Tafragam were completely washed out.",0,0,0,0,0
 23857,"He said Noor Foundation of United States has also planned to plant 10,000 fruit bearing trees in the village along with cold storage facility.",0,0,0,0,0
 23859,"The Jakarta Post reported that TNI personnel shot 10 Papuan rebels in a predawn raid on Wednesday (5 Nov.) in Jayawijaya district, about 650 kilometers west of Jayapura, the capital of Papua.",0,0,1,0,0
-23860,"The public health professionals will be working to assist victims of the December 26, 2004, earthquake and tsunami through disease surveillance, health care and restoring water and sanitation.",1,1,0,0,0
 23861,Families also have solar lamps which can be recharged at charging stations in each community.,0,0,0,0,0
 23862,Senator Hill said a total of 14 C130 Hercules air crews would be used to crew the ADF's six C130 aircraft engaged in the relief effort.,0,0,0,0,0
 23863,"This Assembly already took a big step forward, last year in Algiers, when you decided that those who come to power through unconstitutional means will no longer be welcome among you.",0,0,0,0,0
@@ -19670,7 +19638,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 24249,"In some areas, nearly every home was destroyed and countless others were rendered unsafe.",0,0,0,0,0
 24250,"Both refugees and permanent residents use water from wells for drinking water, and interviews revealed that of every 7 people using this water, 2 use the water after it was been treated with chorine, 1 uses it after it has been boiled, and 4 use it as is.",1,0,0,0,1
 24251,"The WFP chartered-vessel will serve as a floating warehouse off of the WEST COAST of Aceh, with landing craft ferrying food to the shore.. Future taskings along this coast may be coordinated by WFP.. TNI chartered a vessel for loading UNDP tents at KUALA LUMPUR, Monday (17/11/05).. OXFAM water equipment (550 cbm) is to be ferried across to MEDAN on the same vessel.. Belgian aid agency, B-FAST (350 cbm), may take the same route.",1,1,0,1,0
-24252,"One program UMCOR supports is able to feed a child with fortified porridge for 3.2 cents per day, give a family enough drought-resistant seeds to grow their food for $15, and feed a family of 5 for 15 cents per day.",0,0,0,0,0
 24253,"According to news reports, the cyclone flooded wells and other water sources, putting survivors at risk of contracting waterborne diseases.",0,0,0,0,0
 24254,"This donation to the Ministry of Health consisted of the antibiotic erythromycin, used to treat certain infections caused by bacteria, such as bronchitis, pneumonia, and ear, lung, and skin infections and donated by World Vision.",0,0,0,0,0
 24255,It is believed to have been caused by a fire as a result of an electrical fault.,0,0,0,0,0
@@ -19774,6 +19741,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 24367,"Upon completion of the project, rice, maize and other crop yields are expected to increase substantially, and savings of around 52 million-kilowatt hours of electricity are anticipated.",0,0,0,0,0
 24368,ECHO has been an important and valued partner of UNHCR.,0,0,0,0,0
 24369,"There have been large losses of trees, and in Chimanimani, the timber industry estimates that 20% of the trees were destroyed.",0,0,0,0,0
+24370,"Gers (tents) are also on standby and can be sent to overcrowded schools, if needed, within 7 days.",0,0,0,0,0
 24371,"Mr. Jaavar says, because Mauritania is a transit corridor for locusts flying between northern and sub-Saharan Africa, it's more affected by the infestation than other countries.",0,0,0,0,0
 24372,According to Sharankhola local authorities these people were rushed to the orthopedic hospital i n a nearby district town of Bagerhat.,0,1,0,0,0
 24373,"Despite the dredging projects and the building of percolation pits in flood-prone areas, almost all roads hit by flood in previous years were also inundated during the peak of the rainy season in December 2013 and January 2014.",0,0,0,0,0
@@ -19919,7 +19887,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 24533,In areas of known malaria risk the following precautions should be taken: a) spraying of shelters with residual insecticide and/or retreatment/distribution of insecticide-treated mosquito nets in areas where their use is well-known; b) Water storage containers should be covered to prevent them from becoming mosquito-breeding sites.,0,0,0,0,0
 24534,"The official said workers were trying to restore electricity to the Dung Quat oil refinery, which had been due to get back on line on Wednesday after an outage shut the plant last month.",0,0,0,0,0
 24535,CRHFP says 34 per cent of women of childbearing age in the southern Khatlon Oblast are suffering from venereal disease.,0,1,0,0,0
-24536,"Witnesses and media reports from Bhuj have suggested large scale pilferage of relief materials such as tents, plastic sheeting and food.",1,0,0,1,0
 24537,Two different categories of people have urgent unmet needs.,0,0,0,0,0
 24538,"Wood ash, a resource available in every household, provides water soluble phosphate while urine is used to close the nitrogen gap.",0,0,0,0,0
 24539,"Finally, efforts are being made to coordinate humanitarian assistance provided through this operation with UNHCR, who are responsible for the implementation of the voluntary repatriation scheme that started in April this year.",0,0,0,0,1
@@ -19939,7 +19906,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 24554,* Prepare for the resumption of assisted voluntary return to Afghanistan;,0,0,0,0,0
 24555,"Only now and then, a solitary wave washes over the reef far out in the bay.",0,0,0,0,0
 24556,"This includes plans to make portable stoves, store up fire wood and food to ensure it remains dry, and other practical measures such as cultivating vegetable patches on raised ground.",0,0,0,0,0
-24557,Parents hesitated to send children to school on paths slick with rainfall; carrying a sick person to the hospital proved risky for all involved; and grazing cattle sometimes slipped to their deaths.,0,1,0,0,1
 24558,"But last September, she attended a Red Cross Red Crescent livelihoods training session, which gave her added technical knowledge, on such areas as preparing fermentation beds to neutralise the chicken waste.",0,0,0,0,0
 24559,In the a nearby industrial city of Harbin around 400 soldiers were observed near the town centre working feverishly with heavy earthmoving equipment in an attempt to plug a dike.But this daily routine came to an end after Sadhana Forest drilled a borehole from which water is now pumped using green energy - a combined windmill and solar energy system.,0,0,0,0,0
 24560,A additional Train service has commenced from Polonnaruwa to Manampitiya to provide transportation to stranded commuters.,0,0,1,0,0
@@ -20124,6 +20090,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 24756,"Many have blood in their respiratory secretions, they vomit blood, have bloody stool. Since 1998, ADRA has provided technical and financial support in the construction of more than 600 straw bale homes and three schools in rural villages, and trained hundreds on straw bale housing construction, including local government officials, construction workers, architects and homeowners. MUZAFFARABAD, 23 June (IRIN) - Some 11,000 residents of 30 villages around the city of Muzaffarabad, capital of quake-hit Pakistani-administered Kashmir will be evacuated from their houses by the end of this month after their villages were declared unsafe and prone to further landslides, officials said on Friday. In order to strengthen bilateral partnership with destination countries such as China and Thailand in order to address the issue in a more comprehensive way, Myanmar was in the process of developing bilateral Memorandums of Understanding. The cargo comprises 12,000 quilted blankets, 36 tents, 30 palltanks trucks (1,000lt), 30 palltanks storage (1,000 lt), 10 pillowtanks (5,000 lt) and 10 pillowtanks (10,000 lt). Out of the $300 million, ADB will contribute $10 million to the multidonor trust fund (MDTF) being established by the Government. USAID will provide plastic sheeting, zinc roof sheeting, wood framing, cement flooring, and latrines to improve housing for 3,000 households. CHENGLINGJI, China, Aug 23 (AFP) - China on Friday began a massive"" mobilisation of soldiers and civilians to combat surging flood waters that have driven more than 600,000 people from their homes.Distribution of maize and bean seed, sweet potato cuttings and vegetable seed in Mulanje and Thyolo has now been completed through Oxfam's winter cropping programme.",0,1,1,1,1
 24757,"In June 2003, 17 donor governments met in Stockholm and endorsed 23 principles for good humanitarian donorship.",0,0,0,0,0
 24758,"Swinging under the choppers, these materials will be delivered to families in the upper reaches of the mountains, helping them build warm rooms within which they can survive the winter.",0,0,0,1,0
+24759,"The indication of success of the insertion of the concrete balls can be seen from the rising content of H2S (hydrogen sulfide) gas, as it indicates lower pressure from below. A specially configured USAF C-130 aircraft intended for unconventional warfare operations will employ its all weather, day-night, and foliage penetration surveillance capabilities to help authorities assess the depth of damage to Mozambique and to assist in identifying any missed pockets of survivors in need of rescue. Some have fled to cities in the north, others to the Tajik border where they have gathered in makeshift encampments. The Federation delegation in Bangladesh is presently composed of four delegates (a head of delegation, an organisational development delegate, a finance/admin delegate, and a sub-regional reporting delegate) who have all been engaged in monitoring and responding to the situation. In some parts of the country, 100 percent of families are already rationing and reducing the number of meals eaten each day. Piles of empty mussel shells, trash and other debris litter the camp, where residents said non-governmental organizations frequently stop to ask questions, and occasionally make promises, before continuing along the road. The partnership is helping to create market linkages and is providing microinsurance, training in construction and agricultural support to communities, including restoring water-harvesting systems. Lindborg said that the United States and other major donors would meet in Kenya in late March to support longer-term Horn of Africa plans, which have included vaccinating livestock and encouraging alternative livelihoods. - PLN (the government electricity company) is attempting to restore grid power -- only limited wattage available as at 4 pm Saturday 2 April. Over 1,800 returnees between them received 75 baby-care parcels, 480 personal hygiene kits and more than 1,300 tarpaulins and metal buckets. Power consumption exceeded 50 billion kwh in July in neighboring Jiangsu Province, the highest among all provinces, partly due to the wide use of air-conditioners. As part of efforts to prevent disease outbreak, we have started awareness campaigns to encourage refugees to wash their hands, boil water and drink only safe water. We found no radioactive substance leaks into the environment, said the ministry in a statement.",1,1,1,0,1
 24760,"Buildings were damaged, trees downed, and hundreds of people were forced from their homes.",0,0,0,1,0
 24761,"Another shipment delivered 35.4 tons of therapeutic milk, therapeutic food (including Plumpy nut, a vitamin-rich peanut paste) and oral rehydration salts, along with 2.6 tons of locally-purchased therapeutic food.",1,0,0,0,0
 24762,"Additional hydrological surveys were conducted to identify new drilling sites, a contactor was engaged to drill and subsequent civil and electro-mechanical works were undertaken to equip the boreholes.",0,0,0,0,0
@@ -20165,6 +20132,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 24799,"The state power company Tenaga Nasional Bhd has temporarily shut 2,318 electrical substations in the flooded states, halting supply to 150,852 users.",0,0,0,0,0
 24800,"Beyond the ISDR Secretariat and OCHA, let me note that WMO has also much to offer in the area of scientific and technological expertise.",0,0,0,0,0
 24802,"The GWB currently used welded steel (they refer to as MS, mild steel) and ductile iron in areas where water is scarce.",0,0,0,0,0
+24803,Water conservation authorities have started to evacuate the residents living at the drainage area of the reservoirs to avoid further calamities.,0,0,0,0,1
 24804,The general rail infrastructure is in serious need of rehabilitation.,0,0,0,0,0
 24805,"The largest concentrations of food insecure and highly vulnerable people are found in the central and southern maize-based farming areas, whereas more moderate levels of food insecurity were found in the northern provinces, where cassava is the main staple crop.",1,0,0,0,0
 24806,"A family of five pays about US$15 per month for the service, which is less than it costs to use the public toilet.",0,0,0,0,0
@@ -20179,7 +20147,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 24815,"December 16, 2011 - Geneva: In light of a worsening conflict situation in Somalia, including an air attack on a nutritional centre in the southern Somali town of Bardera on December 10th, the International Federation of Red Cross and Red Crescent Societies (IFRC) urgently calls for the mandate of the Somali Red Crescent Society to be respected at all times.",0,0,1,0,0
 24816,"The Namibian government, with the help of a pilot climate change adaptation project run by the UN Development Programme (UNDP), is providing improved millet seeds that fruit earlier, and teaching water conservation farming techniques.",1,0,0,0,0
 24817,"A total of 261,800 people in 12 counties or cities were affected by the blizzard hitting Xinjiang's Tacheng and Altay regions this week, which resulted in blackout and transport disruption in some areas, according to the disaster relief department of the Ministry.",1,0,0,0,0
-24818,"UNHCR representatives have urged President Kenyatta to keep the camp open, as forcibly repatriating refugees may create larger international humanitarian crises.",0,0,0,0,1
 24820,"Unlike in the past, the number of adenoviral conjunctivitis (eye-infection) patients was low this time.",0,0,0,0,0
 24821,"Finally, UNICEF is supporting the testing of 40 hygienic latrines in Long An's flood effected Moc Hoa and Tan Hung Districts.",0,1,0,0,0
 24822,"With many overhead wires snapped and electricity poles uprooted, most areas did not have power.",0,0,0,0,0
@@ -20390,6 +20357,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 25052,"It will support the Government's overall power sector reform program, including procurement of privately financed power generation, corporatization of state-owned operating companies, and institutional strengthening of the Bangladesh Energy Regulatory Commission.",0,0,0,0,0
 25053,The mediation has proposed a gradual return of the Malian army in the city and the billeting of rebel troops.,0,0,0,0,0
 25054,"The Feed the Future program is intended to increase agricultural productivity, shift away from rain-fed agriculture, promote better storage techniques, employ modern farming methods, and utilize science and technology to assist populations in adapting to increasing erratic weather patterns throughout the Horn of Africa.",0,0,0,0,0
+25056,"Their seedbeds and shrimp cultivation fields are underwater so they are not able continue with their usual livelihoods,"" he says.",1,1,0,0,0
 25057,CH: An expanded focus for CWS is in promoting child health/supplemental feeding programs.,0,0,0,0,0
 25058,"More than 40,000 are being temporarily housed in 66 Sri Lanka Red Cross Society (SLRCS) camps and shelters and over 14,000 are staying with relatives and friends.",0,0,0,1,1
 25059,"Communication between Diktel, the district capital, and Kathmandu has been hampered since the telecom tower in Udaypur was destroyed in the armed conflict affecting Nepal, a few months ago.",0,0,1,0,0
@@ -20473,7 +20441,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 25148,"- Islamic Relief has distributed 2000 blankets and 3000 warm cloths to children among 1,000 families in Jessore, Keshabpur, and Monirampur Upazilas of Jessore district.",0,0,0,1,0
 25149,"Once they take flight and join other locusts in a swarm, it's a frustrating race against time.",0,0,0,0,0
 25152,"We have helicopters, landing craft and amphibious assault vehicles that can go into flooded areas and remote areas, he said.",0,1,1,0,0
-25154,"Belgium offered two C-130 transport planes and two helicopters to back up France's offensive, while Britain and Canada have offered troop transporters.",0,0,1,0,0
 25155,"The 55-page report - ""Crisis of Impunity: The Role of Pakistan, Russia, and Iran in Fuelling the Civil War in Afghanistan"" - details the nature of military support provided to the warring parties; the major transit routes used to move arms and other equipment; the suppliers; the roles of state and non-state actors; and the response of the international community.",0,1,1,0,1
 25156,"The OLF has pursued armed opposition since leaving the coalition government in 1993, and has been blamed for insecurity on the roads in eastern Haraghe, now vital for transportation of relief supplies into the Ogaden region.",0,1,1,0,0
 25157,"A week later, another thunderstorm flooded already inundated main thoroughfares and underpasses, forcing authorities to declare a state of emergency with no power in most of the city.",0,0,0,0,0
@@ -21061,6 +21028,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 25801,"Visiting the site to observe damage and aftereffects of the tsunami and to interact with local scientists will help develop long-term research collaborations and educational programs to address critical water supply issues in the region, team members say.",0,0,0,0,0
 25802,"The government wants to do this for sanitary reasons, understandably, but people are upset and crying [because this is not the custom]. The WFP food basket consists of dietary staples of fortified wheat flour, pulses, vegetable oil and iodized salt, as well as high energy biscuits. Sri Lanka's minister of health laid the foundation stone for a new three-storey building complex at Polonnaruwa General Hospital. Obviously getting food and nutritious snacks and vitamins and minerals out to the population is one of the key concerns that we're facing at the moment"".",1,1,0,0,0
 25803,"Geneva - The Global Fund to Fight AIDS, Tuberculosis and Malaria today announced that 2.3 million people living with HIV have been reached with lifesaving antiretroviral (ARV) treatment through AIDS programs it supports, a 31 per cent increase over results reported a year ago.",0,0,0,0,0
+25804,"Ghanaian authorities, struggling to tackle worsening seasonal flooding that wreaks havoc in Accra and beyond, believe the sprawling settlements built on and around drainage channels and waterways are exacerbating the flooding.",0,0,1,0,0
 25806,"It's a new concept for most of the people along the coastal belt who until the cyclone hit, had been living in mud houses with straw roofs.Materials containing tents, woolen blankets, cloths, towels, tarpauline, kitchen sets, feeding cup, bedroll, assorted clothing for men, women and children sent to West Bengal, Kerala, Orissa and Chhattisgarh.",0,0,0,0,0
 25807,"So if we could establish breeding programs, which provide the farmers with wheat varieties, which have durable rust resistance, that would be a much better strategy for farmers in Africa -- but possibly maybe even more important considering the global status of wheat for the world,"" he said.",0,0,0,0,0
 25808,"Aid workers said tens of thousands of unfed people were fighting a grim battle for survival in the country's northern and eastern districts that were worst-hit by the latest monsoon-driven flooding.According to the Central Committee for Flood and Storm Control (CCFSC), 69 people have been confirmed dead, 525 people were reportedly injured, and two are missing.",1,1,0,0,1
@@ -21114,7 +21082,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 25861,"With the expectation of a good Belg (small) harvest in crop dependant areas and good Gu rains in pastoral areas, requirements should begin to decrease in July, falling to approximately 1,000 tons in December.",0,0,0,0,0
 25862,"Known worldwide by its panda logo, WWF works in 100 countries on more than 2,000 conservation programs.",0,0,0,0,0
 25863,"The agency has been supporting the provision of safe drinking water for more than 227,000 people, supported the measles vaccination of about 224,000 children, and supplied 153 School in a Box kits, 96 tarpaulin rolls and 125 recreation kits.",0,0,0,0,0
-25864,"Annual monsoon rains triggered rounds of flooding in many parts of the country, killing several hundred people, destroying livestock and vast acreages of crops, and forcing millions from their homes.",0,1,1,0,1
 25865,"Working odd jobs and crafting eye makeup in his spare time, he claims the presence of a water faucet a few steps from the tent has vastly improved the quality of their nonetheless difficult life.",0,0,0,0,0
 25867,Liberia's Health Ministry and Sierra Leone's country coordinating mechanism have informed the Global Fund that they will be formally asking for flexibility and possible reprogramming of Global Fund grants to help them respond to the Ebola epidemic.,0,0,0,0,0
 25868,"ISIOLO, 17 October 2012 (IRIN) - Amid rising insecurity, a senior official in Kenya's North Eastern Province has ordered all refugees and unregistered migrants from neighbouring Somalia to move to the under-resourced Dadaab refugee complex by 20 October or face forced relocation.",0,0,0,0,1
@@ -21215,6 +21182,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 25972,"(8) to include specific resources to the Ministry for Women's Affairs of Afghanistan to carry out its responsibilities for legal advocacy, education, vocational training, and women's health programs.",0,0,0,0,0
 25973,10 retention and detention basins were utilized at the best point of time to ease flood pressure upon the mainstream of Huaihe River .,0,0,0,0,0
 25974,There are limited parking facilities for UN and international assets at Islamabad and Muzaffarabad airports.,0,0,0,0,0
+25975,"WFP, along with UNICEF, has also successfully completed the distribution of consignments of bowls and spoons to anganwadi centers.",0,1,0,0,0
 25976,The first major criticism of foreign media coverage of the disaster followed a recent report on a satellite television network of bootleg video footage being sold at a Yangon market.,0,0,0,0,0
 25977,The water levels of all the rivers in the basin are rising but flowing below their respective danger levels except the Muhuri at one point and Halda at two points the Sangu at one point and the Matamuhuri at one.,0,0,0,0,0
 25978,"With the available resources, LWS India has begun intervention in selected communities which faced maximum damage.",0,0,0,0,0
@@ -21412,7 +21380,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 26204,"The PSM, he said, is manufacturing 15,000 cgi sheets a day, for use in construction of shelters in the quake zone.",0,0,0,1,0
 26205,"They are one of fourteen families living in large an open-sided warehouse - little more than a corrugated iron roof with a rough gravel floor, and Red Cross tarpaulins strung up as walls to keep the elements out.",0,0,0,1,1
 26206,"The 'reassuring' tones, however, cannot put an end to criticism and controversy because the weapons in placed in storage areas so close to densely populated neighborhoods should have been moved out of town.",0,0,0,0,0
-26207,"This was beyond our capacity but the army gave us support, he said in Muzaffarabad, which has become a city of death after the killer earthquake razed houses, bazars, hotels and government buildings ranging from the territory's main university and colleges to the local jail.",1,1,1,1,1
 26208,Due to the fact that the Spanish dog team would be part of the Rapid-UK response our own search dogs were not deployed from quarantine (still in quarantine following the Turkish earthquake).,0,0,1,0,0
 26209,"In Ruyi Du Ab the assessment team including of the Minister for Rural Rehabilitation and Development found 3 dead, all five clinics destroyed, all schools and mosques destroyed, 210 homes totally destroyed and 1,000 homes partially (50-60%) destroyed.",0,1,0,0,1
 26210,The Medan Chapter of the Taiwan Buddhist Tzu Chi Foundation set up a reception center at an Indonesian military base in Medan on Dec. 29 to help victims fleeing the tsunami-ravaged Ache Province to Medan.,0,0,0,0,1
@@ -21488,6 +21455,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 26292,"""The current state of affairs is only adding to an already difficult situation as over 3 million people struggle to have enough food to eat, and host communities brace themselves to face a harsh lean season,"" she added.lactating cows > 1000 Birr/unit",1,0,0,0,0
 26293,"The charter boat, Barrenjoey, has delivered the first batch of blankets, tarpaulins, floormats, towels, 40 water containers, and rope to the village of Bosua.",1,0,0,1,0
 26294,"Several communities also face environmental hazards including the overflowing of drains and culverts due to uncleared debris, uncleared garbage around transitional shelters and the ad-hoc felling of trees for reconstruction.",0,1,0,0,0
+26295,Singapore authorities have issued a health advisory after haze from forest fires in,0,0,0,0,0
 26296,"The elderly man, who had a decent home before Sidr, now lives in a corrugated iron shack with his wife on the banks of the Halta River in Jhalakathi, exactly where his previous home was destroyed by the tidal surge.",0,0,0,1,0
 26297,"One problem we can't help them with is getting them out of the ""temporary housing"" that has families living virtually in corrugated tin boxes, where they swelter in heat of 100 degrees and more day and night and sleep on concrete floors in 8-foot-by-12-foot windowless rooms.",0,0,0,1,0
 26298,"My particular thanks go to the members of the MONUC Moroccan contingent for their tireless efforts in conveying food and other aid supplies to Goma amid the hazardous conditions created by the continuing eruptions, earthquakes and emissions of harmful gases, as well as to the civilian staff of MONUC and the specialized agencies whose support was unstinting.",1,0,0,0,0
@@ -21987,6 +21955,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 26860,"In response to the Tohoku - Pacific Ocean Earthquake, relief supplies from the government of the Republic of Korea (ROK) are scheduled to arrive at Narita Airport at 8:00 on Sunday, March 27 on a Korean Air cargo jet (KE855).",0,0,0,0,0
 26861,The Frontier Works Organization has been tasked to keep clear the Gilgit-Hunza road so as to ensure uninterrupted supply of relief items.,0,0,0,0,0
 26862,"About 500,000 children have no classrooms at all.",0,0,0,0,0
+26863,"This was the first Boko Haram raid in a few days, although an explosion outside a bus station in the northeastern city of Gombe on Thursday that killed 10 people was blamed on the Islamists",0,0,1,0,0
 26865,Passenger ships -- which the island chain's shipping department is managing to run despite broken jetties -- are being loaded beyond their capacity and policemen have been posted to control crowds.,0,0,0,0,0
 26866,"As they did so, Chadian soldiers gained a reputation for ruthless efficiency in pursuing and liquidating retreating Islamist fighters, and were credited with killing some of the most wanted radical leaders.",0,1,1,0,1
 26867,Every report he had received indicated that a serious massacre occurred in Hazarajat around a month ago.,0,0,0,0,0
@@ -22275,7 +22244,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 27188,All roads except 16 State roads and 72 Panchayat roads have been opened for normal vehicular traffic.,0,0,0,0,0
 27189,"During the period of the Soviet invasion which began in 1979, all during that next decade until the Soviets left in 1989, there was sporadic fighting all over the country.",0,0,1,0,0
 27190,"**Diagnosis: Ebola** Meanwhile in Beyla, the paternal grandfather and family head lost his wife to an unknown disease on 8 October.",0,0,0,0,0
-27191,"Abala Malian refugee camp, north Filingué region: Mid-January 2012, the uprising of an armed conflict between rebels and the Malian State resulted in a massive population displacement towards bordering countries, notably Niger.",0,0,1,0,1
 27192,"This has had particularly harsh effects on the educated women of Kabul, who used to know a more liberal lifestyle.",0,0,0,0,0
 27193,Contaminated water sources have now been sealed to prevent the disease spreading among the hundreds of thousands of cyclone victims still living in the open.,1,1,0,0,0
 27194,"""That said, the government and their partners were slow to address the key factor underscoring Liberia's history: endemic corruption,"" Dufka added.",0,0,0,0,0
@@ -22417,7 +22385,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 27358,Common membership of regional organisations also allows us at Ministerial level to directly advocate democratic reform and national reconciliation - as I did when I met my counterpart Burmese Foreign Minister Nyan Win during the ASEAN-related meetings in Thailand in July 2009.,0,0,0,0,0
 27359,"The medical officer also reported that tubewells in the block have been treated twice with halogen tablets, and a third round of treatment has been completed in some gram panchayats.",0,0,0,0,0
 27360,"In Sri Lanka, the Tamil Tigers found women easier to infiltrate targets, he added, pointing to the 1991 assassination of former Indian prime minister Rajiv Gandhi by a female suicide bomber.",0,0,0,0,0
-27361,They are also providing mobile clinic services to smaller evacuation shelters.,0,1,0,1,0
 27362,"The Eco-village project, led by LWR partner organization Sarvodaya, consists of 55 family homes, all with environmentally friendly features such as rainwater harvesting and solar panels for heat and power.",0,0,0,0,0
 27363,"The United Nations also launched its first aerial assessment of the entire Somali coastline in an attempt to identify other areas in need of help in the remote and largely lawless nation, which until recently had been without a government for more than a decade.",0,0,0,0,0
 27364,"As reported by provincial authorities, 5 bridges, portions of a main road, water pipes, electric poles and 137 hectares of planted fields were damaged, while 230 families were affected due to damage to their houses.",0,0,0,0,0
@@ -22747,7 +22714,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 27725,"Cash and in-kind contributions of tents, quilts and clothing are on their way to the disaster area:",1,0,0,1,0
 27726,"The availability of feed from grain and crop residues has also fallen sharply due to the drop in agricultural production, especially in rainfed areas.",0,0,0,0,0
 27727,"While assuring all possible assistance to the state, the prime minister said a central team would be deputed after municipal elections in Andhra Pradesh to assess the damage.",0,0,0,0,0
-27728,"The mujahedeen fighters, in their bid to help people displaced by drought, started working on plans to send them back home where they will be assisted, God willing, said Sheik Mahad Abu-Safiya, a senior Shebab official.",0,1,0,1,1
 27729,"- Run-off regimes of major rivers where hydropower stations are built would change, affecting water regulation mechanisms and hence the power generation capacity;",0,0,0,0,0
 27730,"The national society is also prepositioning relief supplies in Isiolo District, to be airlifted or trucked to outlying areas as and when the need arises.",0,0,0,0,0
 27731,"WFP has also developed a contingency plan for a most likely scenario of an influx of 10,000 Congolese refugees in case of further ethnic strife.",1,0,0,1,0
@@ -22848,6 +22814,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 27829,"Tzu Chi is building 3,700 permanent homes at three locations in Aceh.",0,0,0,1,0
 27830,"Such co-operation is, to date, unprecedented and is a good example of confidence and peace-building through mine action.",0,0,0,0,0
 27831,"We are treating more than 200 patients every day, says a busy Red Cross volunteer doctor in charge of the medical camp in Kaluknali.",0,1,0,0,0
+27832,"Authorities responded by imposing a rarely-used provision in Pakistani law that affords emergency powers to police, and more than 100 protesters, mostly IDPs but also some activists, were arrested, and many charged with crimes including terrorism and sedition, which could carry the death penalty.",0,0,1,0,0
 27833,"As a result of infiltration of saline water, sediment and sludge, it is estimated that 7.5 kilometres of river mouth is in need of rehabilitation, and hundreds of wells in the rural area need to be cleaned up.",0,0,0,0,0
 27834,The bridge carried a vital road link into North Hamgyong province.,0,0,0,0,0
 27835,Gordon also informed the Ambassador in a phone call that PNRC Governor James Dy is organizing a team of Chinese speaking doctors and nurses that will lend their expertise in medical emergency as with Governor George Go for trained volunteer firefighter-rescuers.,0,0,0,0,0
@@ -23154,7 +23121,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 28185,"A statement from the Malawi Army said the helicopters and crew will be used to evacuate stranded people, cut off from the rest of the country by swollen rivers that have broken their banks.",0,0,1,0,0
 28187,"Things that are currently needed to ease the burden on the evacuees include soup kitchens such as those currently being offered on a sporadic basis by volunteer groups (many say that a hot meal from time to time is greatly appreciated), distribution of relief goods (there is a mismatch between what evacuees want and what they are actually being given), people to help prepare meals on a consistent basis and food that can be eaten that doesn't require any additional preparation.",1,1,0,1,1
 28188,"NADYA RASHEED, Permanent Observer Mission of Palestine, expressed her delegation's deep distress that, more than seven years after the adoption of the ""World Fit for Children"" document, the rights of children around the world continued to be egregiously violated, particularly in situations of armed conflict, including foreign occupation.",0,0,0,0,0
-28190,Read the full story on [AlertNet](http://www.trust.org/alertnet/news/mali-islamists-step-up-threats-as-france-pushes-for-war/),0,0,0,0,0
 28191,"Mobile phone data might be able to predict the likelihood of the virus spreading further east, or into neighbouring Grand Gedeh County, an area which has so far reported few cases.",0,0,0,0,0
 28192,"Since the bombings, there have been violent demonstrations in various locations in Pakistan, forcing our expatriate staff to withdraw from Quetta and Peshawar to Islamabad.",0,0,1,0,1
 28193,"Habitat for Humanity [http://www.habitat.org/asiapacific/](http://www.habitat.org/asiapacific/) has built 18 temporary wooden houses, provided building kits and helped build small roads and evacuation routes in Sipora Selatan, said Andreas Hapsoro, Habitat's project coordinator for West Sumatra.",0,0,0,1,0
@@ -23298,6 +23264,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 28348,"All major roads Muzaffarbad-Neelum, Muzaffarbad-Chakoti, Balakot-Kaghan, Rawalpindi-Bagh and Rawalpindi-Rawlakot have already been opened while the work is in progress on secondary roads Paddar-Mohra Sadiq - Chakoti, Bagh-Chattar- Chakoti in Azad Kashmir and road Naran-Dheri and Naran-Josucha and few others roads in NWFP.",0,0,0,0,0
 28349,"In Ampara district, IOM distributed female relief items, including women's undergarments and sanitary napkins following an IOM assessment.",0,1,0,0,0
 28351,- It has been reported on 8 February that FARDC troops pursued Mayi-Mayi elements because of lootings in Bweremana (Masisi territory).,0,0,0,0,0
+28352,"Various initiatives have been implemented which include starter packs for household farmers, vegetable gardens, farmers training and tools.",0,0,0,0,0
 28353,"Amid the announcement of a truce, Indian police said suspected militants had killed 11 people late Sunday and early Monday, most of them Hindus -- the majority population in India but the minority in Indian-held Kashmir.",0,0,1,0,1
 28354,An estimated five million people are living in abject poverty.,0,0,0,0,0
 28355,"The Deudap community boat, purchased with a British Red Cross grant of 13,620 Swiss francs, takes passengers to and from the main island of Sumatra three times a week, with additional trips to transport goods for market or construction materials.",0,0,0,0,0
@@ -23567,7 +23534,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 28652,"The number of Chinese army and armed police personnel dispatched to quake-hit areas by Thursday has reached a record 95,553, with 148 military and civilian aircraft used for disaster relief.",0,0,1,0,1
 28653,"Although the voters roll is not critical to the referendum, in which people with valid identity cards would be able to participate, the accuracy of the list is vital for the parliamentary poll.CARE is the main NGO delivering life-saving supplies to one of the most inaccessible areas hit by Pakistan's devastating earthquake on 8 October.",0,0,0,0,0
 28654,The option of shallow wells will cease to be a durable solution for potable water supply in the area.,0,0,0,0,0
-28655,"No group has claimed responsibility but Chad and its allies immediately blamed the insurgents, who have carried out a series of bloody attacks in border areas of countries that share a frontier with northeastern Nigeria.",0,0,1,0,0
 28656,"The Government of Malaysia has provided 5 tonnes of blankets, 2 tonnes of sanitary napkins, 1 ton of cleaning kits, 2 tonnes of medicines and 5 tonnes of food items.",1,1,0,1,0
 28657,"The relief and rescue operations are in full swing and additional 25 motorized boats have been rushed to strengthen the fleet of naval boats already busy in shifting people to safe places in Badin district, the spokesman claimed.",0,0,1,0,0
 28659,Factional fighting has plagued Somalia since the overthrow of its authoritarian government in 1991.,0,0,1,0,0
@@ -23765,7 +23731,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 28877,"Key components include providing skills and training in public administration, and workshops on 'Women's Participation' in the upcoming parliamentary elections - the major theme for this year's International Women's Day in Afghanistan.",0,0,0,0,0
 28878,"The NDMA provided 75,000 additional ration packs & 20,000 more water purification tablets to the flood hit areas.",1,0,0,0,0
 28879,"I am equally concerned about violations by anti-government forces, including murder, extrajudicial execution and torture as well as the recently increased use of improvised explosive devices.",0,0,1,0,1
-28880,"More heavy rain was forecast for the upper reaches of the Huai on Wednesday night and throughout Thursday to compound the disaster, China Central Television said, showing pictures of troops rescuing stranded villagers in speedboats.",0,0,1,0,0
 28881,"Officials said heavy rains also damaged power transmission lines in Jalozai and Pabbi areas disrupting electric supply.Donors provide greater funding support for infrastructure improvements, especially for the continued rehabilitation of transportation networks throughout the Congo.",0,0,0,0,0
 28882,"The DRC's eastern provinces of North and South Kivu have witnessed increased fighting between Government troops and the so-called March 23 Movement (M23), which is composed of renegade soldiers who mutinied in April.",0,0,1,0,0
 28883,"Since the national mobile teams have been trained on distribution of aluminium sulphate and chloramine tablets, ORS and Vit-A, the Red Cross volunteers will increasingly participate in health activities by supporting the national mobile teams and health authorities in their efforts to fight against water borne diseases.",0,0,0,0,0
@@ -24558,6 +24523,7 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 29779,"Moreover, ""the amount of virus circulating in humans and mosquitoes in this outbreak is very high,"" he said.",0,1,0,0,0
 29781,"Militaries from NATO member states should provide technical assistance to the Pakistani military, UN agencies, and NGOs to train staff in loading procedures and sling load operations and should help supply the necessary slings and nets.",0,0,1,0,0
 29784,"We condemn recent hostile statements made by government officials against the local media, and we are particularly disturbed by the ongoing espionage trial of eleven journalists from the independent daily newspaper 'The Post', the CPJ said.",0,0,0,0,0
+29785,"Q: Given the deplorable conditions and reports coming out of the Jalozai refugee settlement, surely your government may want to reconsider its position about establishing further camps in Pakistan?",0,0,0,1,1
 29786,I wish to reiterate the EU's firm condemnation of this heinous attack and convey our condolences.,0,0,0,1,0
 29787,"On 7 December, an 11,800 ton barge carrying a crane broke loose from its tugboat and collided with a super tanker five miles off the northwest coast of Mallipo, South Chungcheongnam Province.",0,0,0,0,0
 29788,The Foreign Office is providing consular assistance to British nationals involved in the earthquake.,0,0,0,0,0
@@ -24846,7 +24812,6 @@ id,message,need_basic_supplies,need_medical_help,need_safety_rescue,need_shelter
 30113,"Japan's overseas missions are accepting relief money from private organizations, etc., of foreign countries.",0,0,0,0,0
 30114,"According to officials, Kabul River and Swat River and several big seasonal streams in northern Pakistan were either overflowing or touching danger level.",0,0,0,0,0
 30115,"The gross relief food requirements for June-December 2004 stand at 327,000 tons, and confirmed contributions to WFP, NGOs and bilaterals to the Government mean the current shortfall for July-December is 70,000 tons (cereals 65,000 tons, pulses 5,000 tons).",1,0,0,0,0
-30116,"Authorities have built tent compounds in flattened mountain towns along the fault line to keep refugees from flooding the cities, but have cordoned off some of the worst towns near the epicentre for fear that decaying bodies could host disease.",0,0,0,1,1
 30117,"Two of the dead were so badly mutilated that no one had been able to identify them and they lay unclaimed, he said.",0,0,0,0,1
 30118,"Representatives of the GOM, United Nations Development Programme, WFP, UNICEF, USAID, United Nations Food and Agriculture Organization and Doctors Without Borders/France participated in four overflights on April 4 to assess the sites affected by Cyclone Hudah.",0,0,0,0,0
 30119,"The health-care worker referred the grandmother and child to the Fousseyni Daou Hospital, in the same city, where she was admitted to the paediatric ward on the following day, on 21 October.",0,0,0,0,0

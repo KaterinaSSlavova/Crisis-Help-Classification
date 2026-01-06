@@ -33,3 +33,13 @@ Please help us, my child is sick, we need water and food, and we have nowhere to
  - Need_safety_and_rescue: 0
  - Need_shelter: 1
  - People_status: 0
+
+## Pipeline
+<div style="text-align:center;">
+  <img src="docs/img.png" width="450">
+</div>
+
+## Model Comparison
+<div style="text-align:center;">
+  <img src="docs/model_comparison.png">
+</div>

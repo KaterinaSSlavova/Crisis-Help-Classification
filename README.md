@@ -38,8 +38,3 @@ Please help us, my child is sick, we need water and food, and we have nowhere to
 <div style="text-align:center;">
   <img src="docs/img.png" width="450">
 </div>
-
-## Model Comparison
-<div style="text-align:center;">
-  <img src="docs/model_comparison.png">
-</div>

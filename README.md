@@ -38,3 +38,53 @@ Please help us, my child is sick, we need water and food, and we have nowhere to
 <div style="text-align:center;">
   <img src="docs/img.png" width="450">
 </div>
+
+The system follows a machine learning pipeline consisting of several stages:
+
+1. **Data preprocessing**
+   - text cleaning
+   - tokenization
+   - lemmatization
+
+2. **Exploratory Data Analysis (EDA)**
+   - message length distribution
+   - label distribution
+
+3. **Feature Engineering**
+   - TF-IDF vectorization
+   - extraction of textual features
+
+4. **Model Training**
+   - One-vs-Rest multilabel classification (Naive Bayes, Logistic Regression, Linear SVC)
+   - Transformer-based models (DistilBERT, RoBERTa, DeBERTa)
+   - Large language model experiments (Qwen2.5)
+
+5. **Model Evaluation**
+
+The models were evaluated using:
+
+- **Micro F1-score**
+- **Macro F1-score**
+- **Jaccard score**
+
+These metrics measure the model’s ability to correctly predict multiple labels for each message.
+
+
+## Technologies Used
+
+- Python
+- Scikit-learn
+- PyTorch
+- Transformers
+- TF-IDF
+- Pandas
+- NumPy
+
+
+## Results
+
+To summarize, the project should continue as it successfully demonstrates
+a strong, transparent and explainable baseline. All experiments show that the
+main limitation in this project is the poor lexical signal, rather than model choice.
+This is why, future improvements should be focused on increasing positive
+samples and incorporating richer contextual samples for signal improvement.

@@ -1,5 +1,5 @@
 # Crisis Help Classification
-- *Demo:*
+- *Demo:* https://github.com/KaterinaSSlavova/Crisis_Help_Classification_Demo.git
 ## Project Goal
 The goal of this project is to develop an AI Crisis Help Classification system that analyzes a disaster-related text message and predicts which humanitarian needs apply to each message. The labels narrow to *need_basic_supplies*, *need_medical_help*, *need_safety_rescue* , *need_shelter* and *people_status*. A single message can belong to multiple labels, which is why this task is formulated as a multi-label text classification problem.
 ### How each target was created
